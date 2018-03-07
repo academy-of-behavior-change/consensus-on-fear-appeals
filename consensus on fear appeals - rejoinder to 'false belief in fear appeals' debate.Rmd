@@ -10,9 +10,17 @@ knitr::opts_chunk$set(echo=TRUE);
 knitr::opts_chunk$set(comment=NA);
 ```
 
-This supplementary file contains more detailed discussion of the commantaries on our paper "The False Belief in Fear Appeals".
+# Towards consensus on fear appeals: supplementary appendix
 
-## Peters & Shoots-Reinhard: 
+This supplementary appendix contains more detailed discussion of the commentaries on the provocative article [Ignoring theory and misinterpreting evidence: the false belief in fear appeals](https://doi.org/10.1080/17437199.2017.1415767). To enable a constructive, collaborative focus in the rejoinder, as well as do justice to the thoughtful comments without exceeding the 1500 word boundary for commentaries and rejoinders, we decided to include the point-by-point responses in this supplementary appendix.
+
+This version was generated at `r format(Sys.time(), '%d %b %Y at %H:%M:%S');`. Earlier versions can be viewed at the  GitHub repository.
+
+Note that because this text is an integral part of the commentary, if you wish to cite this text, please cite the commentary:
+
+[[[INCLUDE REFERENCE AND LINK TO COMMENTARY]]]
+
+# Peters & Shoots-Reinhard: 
 
 Ellen Peters and Brittany Shoots-Reinhard argue that the baby should not be thrown out with the bath water. We agree, but add that although this particular baby should not be thrown away, it should be avoided whenever possible, only to be used with great reluctance.
 
@@ -24,7 +32,7 @@ Inspection of these papers they cite shows that
 
 [CONTINUE LATER]
 
-### The validity of self-reported intention as operationalisation of intention
+## The validity of self-reported intention as operationalisation of intention
 
 Peters and Shoots-Reinhard then argue that intention is a good predictor of behavior. We mostly agree (but would like to add an important nuance that is relevant regarding smoking). But before going into the predictive value of intention (and therefore, the usefulness of measuring intention instead of behavior when studying behavior change interventions), allow us to correct a mistake we made.
 
@@ -45,7 +53,7 @@ Thus, while it may be true that both studies we cited represent Type-1 errors, t
 
 As it stand, there seems to be sufficient reason to doubt the validity of self-reports of intention as operationalisations of intention in situations where reporting a high intention can serve as fear control. And in any case, even if self-reports of intention can be salvaged as operationalisations of intentions in fear appeal research, at best, they remain a proxy for the intervention target. The goal is not to keep people smoking but with different intentions: the goal is behavior change. The lack of evidence that fear manipulations can influence behavior on their own (even without strong self-efficacy manipulations) can mean either that this has not been studied, which would be a serious problem, that these studies have not been published. Given the prevalence of publication bias, such a suppression of null findings is not surprising, but in any case, there is little reason to expect behavior change from fear manipulations.
 
-### Affect as mediator
+## Affect as mediator
 
 Peters and Shoots-Reinhard then argue that our focus on behavior made us overlook that emotional reactions can influence judgmenets and decisions about smoking. We are not sure whether their departure from this focus on behavior implies that these emotional reactions are not eventually expected to impact behavior. If they are not, it is not clear how it can be justified to 'spend' the scarce resource of a health communication opportunity (e.g. on tobacco packaging) to elicit emotional reactions if the goal of such elicitation is not to help people cease smoking, or refrain from starting smoking. Therefore, we assume that these emotional reactions are expected eventually impact behavior.
 
@@ -83,9 +91,9 @@ There seems to be some insistence on retaining warning labels. Developing behavi
 
 The fact that our suggestion is taken to be a call to explore new, innovative methods, may be indicative as to the underlying problem. This was a misunderstanding. We meant to suggest that application of time-honoured best practices to assistent smokers and vulnerable nonsmokers is long overdue. The basic logic of first establishing the relevant determinants and then consulting psychological theory to learn how to most effectively influence those determinants was already outlined in XXXX [AANVULLEN; GERJO WEET VAST WANNEER DAT HET EERST GEBEURDE; OOK EERSTE EN LAATSTE IM REFS TOEVOEGEN, EN ELP PAPER ALS SUPERRECENTE 2018 REF)
 
-## Brewer, Hall & Noar: Pictorial cigarette pack warnings increase quitting: A comment on Kok et al.
+# Brewer, Hall & Noar: Pictorial cigarette pack warnings increase quitting: A comment on Kok et al.
 
-### The importance of smoking as a health behavior
+## The importance of smoking as a health behavior
 
 Interestingly, Brewer, Hall & Noar start by reiterating how unhealthy smoking is, arguing that:
 
@@ -93,7 +101,7 @@ Interestingly, Brewer, Hall & Noar start by reiterating how unhealthy smoking is
 
 It is not clear why they open with this point. Of course, we are all in agreement. It may bear explicitation that their emphasis on this point may perhaps be misconstrued as implying that our argument (that fear appeals are generally to be avoided) is in some way based in the position that preventing smoking initiation or promoting cessation is insufficiently important. In fact, the opposite is true: exactly because we so strongly endorse the importance of preventing smoking initiation and promoting cessation, we wrote this paper. We try to promote replacing warning labels with health communications that are *more* effective at preventing smoking initiation and promoting cessation (see also Box 2).
 
-### The Brewer et al. (2016) RCT
+## The Brewer et al. (2016) RCT
 
 Brewer, Hall and Noar then cite a randomized controlled trial where behavior was an outcome measure as "convincing evidence of the behavioral effects of pictorial cigarette pack warnings". Before going into this evidence, let us test the design of this study against the basic criteria outlined in the paper to which Brewer, Hall, and Noar's commentary was a response:
 
@@ -107,9 +115,9 @@ This study's primary outcome measure was a quit attempt (24 hours without smokin
 
 The study also had nine secondary outcome measures, two of which were behavioral. While the primary outcome was in fact not the desired behavior but a proxy (only a proportion of quit attempts proves successful), one of the two secondary behavioral outcomes was in fact exactly the desired outcome: *successful* quitting, operationalised as no smoking in the last week of the study (one can argue whether not smoking for one week is sufficiently valid as measurement of success, but given the paucity of studies with behavioral measures, this is already a great step forward). Where the first secondary measure was great, the second was a proxy even further removed from the desired behavior: foregone cigarettes.
 
-#### Effect sizes {.tabset}
+## Effect sizes {.tabset}
 
-##### Text
+### Text
 
 The 95% confidence interval for the measure's association to type of threatening communication (i.e. textual vs. pictorial) was [1.09; 1.54] (this is an odds ratio; the conventional qualitative labeling starts at 'small' for odds ratios over 1.5; Rosenthal, 1996; Chen, Cohen & Chen, 2010). The point estimate for this odds ratio was 1.29.
 
@@ -130,7 +138,7 @@ This is consistent with our argument that at best, threatening communication is 
 
 This leaves a lot of room for improvement. Replacing pictorial warning labels with health communications targeting determinants that are more relevant than risk perception, using methods for behavior change that are more effective than threatening communication, is a promising example of such improvement.
 
-##### Underlying analyses
+### Underlying analyses
 
 ```{r brewer-effect-size}
 
@@ -181,7 +189,7 @@ diff(forGoingCigs_means) + c(-1.96, 1.96) * forgoingCigs_se;
 
 ```
 
-#### Mediatiors (determinants) targeted by warning labels
+## Mediatiors (determinants) targeted by warning labels
 
 Brewer, Hall and Noar then continue listing a number of potential mediators of potential effects of graphic warning labels. Studying mediators is notoriously hard to do, and evidence of mediation can only be obtained by designs that are both experimental and longitudinal (Roe, 2012; Spencer, Zanna & Fong, 2005), and even then is not straightforward (Green, Ha & Bullock, 2010). Unfortunately, the 2018 manuscript they cite has not yet been posted on a preprint server, so we cannot know whether this study provides evidence of this mediation.
 
@@ -189,7 +197,7 @@ However, regardless, it is necessarily the case that any mediator of an effect o
 
 The theoretical mechanism at play here remains vague. This may be due in part because of the problems in studying mediators: without manipulating both the predictor and the hypothesized mediator, it is easy to incorrectly conclude that mediator occurs. Mediation, after all, requires that the mediator causally influences the criteruon; for example, if a manipulation influences 
 
-#### Weak versus strong hypotheses
+## Weak versus strong hypotheses
 
 Finally, Brewer, Hall and Noar argue constructed a tabel based on data from two meta-analyses into threatening communication. They constructed this table to compare evidence for a 'strong hypothesis' (when efficacy is low, threatening communication can backfire) and a 'weak hypothesis' (when efficacy is low, threatening communication has a weaker effect):
 
@@ -219,7 +227,7 @@ If either the weak or the strong hypothesis is accurate, threatening communicati
 
 Interestingly, the fact that the weak and strong hypotheses emerge as the two most plausible competing models of reality can in itself be viewed as some form of evidence. If either is true, that in itself already implies that threatening communications are better avoided in favour of other methods, the effectiveness of which does not depend on a condition that is rarely true (e.g. smokers being confident that they can successfully cease smoking).
 
-### Brewer, Hall and Noar's conclusion
+## Brewer, Hall and Noar's conclusion
 
 In their conclusion, Brewer, Hall and Noar argue:
 
@@ -275,20 +283,12 @@ The second reservation concerns the risks inherent in meta-analyses to answer a 
 relating to the pwhat meta-analyses can and cannot 
 
 
-
-
 It appears from their Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
 
 At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitizer` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression, the regression coefficient is no longer distinguishable from zero.
 
 
-
-
-
-
-
-
-# Ignoring Theory and Evidence: Commentary on Kok et al. (2018), Niederdeppe & Kemp
+# Ignoring Theory and Evidence (Niederdeppe & Kemp)
 
 Nierdeppe and Kemp respond by arguing that our conclusion, that threatening communication is almost always better replaced by more effective methods for behavior change, ignored three bodies of evidence. Specifically, they argue that we ignore theories of campaign diffusion and effects; evidence from large-scale population studies; and theory on other negative emotions than fear as behavioral determinants.
 
@@ -355,7 +355,7 @@ We would argue exactly the opposite (perhaps not surprisingly): these smokers ma
 
 
 
-# Towards published commentary
+# Towards the rejoinder
 
 But more importantly, the question is not whether fear appeals can be effective. Not having any discernible effect whatsoever does not in itself justify using a method. There are hundreds of available methods for behavior change, dozens of which lend themselves for application in health communications on, for example, tobacco packacing, targeting dozens of psychological determinants of behavior. Fear appeals are just one method, targeting just one determinant (risk perception). Amongst this fierce competition, not having zero effect doesn't cut it. The best method to use is the method that targets the most important determinant of behavior, and that has the strongest effect on that determinant. There have been comparisons of different methods for behavior change (REFERENTIES), as well as comparisons of how important different determinants are for behavior (REFERENCES), and risk perception and fear appeals have *never* come out as particularly important for predicting and changing behavior.
 
@@ -382,3 +382,5 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. http://doi.org/10.1300/J079v21n04_02
 
 - Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851. https://doi.org/10.1037/0022-3514.89.6.845
+
+# Footnotes
