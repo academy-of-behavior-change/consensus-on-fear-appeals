@@ -27,7 +27,7 @@ Note that because this text is an integral part of the commentary, if you wish t
 
 This supplementary file is hosted at the [Open Science Framework](https://osf.io/a2v46/).
 
-# Peters & Shoots-Reinhard: 
+# Peters & Shoots-Reinhard: Don’t throw the baby out with the bath water
 
 Ellen Peters and Brittany Shoots-Reinhard argue that the baby should not be thrown out with the bath water. We agree, but add that although this particular baby should not be thrown away, it should be avoided whenever possible, only to be used with great reluctance.
 
@@ -98,7 +98,7 @@ There seems to be some insistence on retaining warning labels. Developing behavi
 
 The fact that our suggestion is taken to be a call to explore new, innovative methods, may be indicative as to the underlying problem. This was a misunderstanding. We meant to suggest that application of time-honoured best practices to assistent smokers and vulnerable nonsmokers is long overdue. The basic logic of first establishing the relevant determinants and then consulting psychological theory to learn how to most effectively influence those determinants was already outlined in XXXX [AANVULLEN; GERJO WEET VAST WANNEER DAT HET EERST GEBEURDE; OOK EERSTE EN LAATSTE IM REFS TOEVOEGEN, EN ELP PAPER ALS SUPERRECENTE 2018 REF)
 
-# Brewer, Hall & Noar: Pictorial cigarette pack warnings increase quitting: A comment on Kok et al.
+# Brewer, Hall & Noar: Pictorial cigarette pack warnings increase quitting
 
 ## The importance of smoking as a health behavior
 
@@ -257,7 +257,7 @@ Actually, to take this metaphor one step further, thorough analysis of this prob
 
 While, yes, risk perception (the bolt) is a determinant of behavior, and, yes, it is true that is has *some* effect in the case of smoking, it is almost never the most *important* determinant of behavior. Also in the case of smoking, there are determinants that have more effect, such as self-efficacy (a [ZADEL-DINGGEVAL]).
 
-# Investigating Belief Falsehood. Fear Appeals Do Change Behavior in Experimental Laboratory Studies (White & Albarracin)
+# White & Albarracin: Investigating Belief Falsehood. Fear Appeals Do Change Behavior in Experimental Laboratory Studies
 
 The commentary by White & Albarracin discusses the results of novel analyses that were previously unreported, and we share their delight at these results now being part of the published literature.
 
@@ -295,7 +295,7 @@ It appears from their Figure 2 that there is an inverse relationship between eff
 At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitizer` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression, the regression coefficient is no longer distinguishable from zero.
 
 
-# Ignoring Theory and Evidence (Niederdeppe & Kemp)
+# Niederdeppe & Kemp: Ignoring Theory and Evidence
 
 Nierdeppe and Kemp respond by arguing that our conclusion, that threatening communication is almost always better replaced by more effective methods for behavior change, ignored three bodies of evidence. Specifically, they argue that we ignore theories of campaign diffusion and effects; evidence from large-scale population studies; and theory on other negative emotions than fear as behavioral determinants.
 
@@ -342,7 +342,7 @@ Our point is that at best, the effects that one can expect from threatening comm
 
 
 
-# Malouff (2018) What Constitutes Evidence that Fear Appeals Have Positive Effects on Health Behavior?
+# Malouff: What Constitutes Evidence that Fear Appeals Have Positive Effects on Health Behavior?
 
 ## The conditions under which non-RCT evidence can help show causation
 
