@@ -5,7 +5,7 @@ output:
     toc: true
     toc_depth: 2
     toc_float:
-      collapsed: false
+      collapsed: true
       smooth_scroll: false
 ---
 
@@ -61,7 +61,15 @@ We countered each of these arguments as follows:
 
 [[[AFMAKEN ETC- STUKJES VAN HIER BENEDEN HALEN EN HIER NEERZETTEN, EN DAN HIER BENEDEN VERWIJZEN NAAR BOVEN]]]
 
-We will refer back to these points as we discuss each commentary below.
+We will refer back to these points as we discuss each commentary below, in alphabetical order.
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+# Borland: Misinterpreting theory and ignoring evidence: fear appeals can actually work
+
+
+
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -300,46 +308,6 @@ Our point is that at best, the effects that one can expect from threatening comm
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
-# White & Albarracin: Investigating Belief Falsehood. Fear Appeals Do Change Behavior in Experimental Laboratory Studies
-
-The commentary by White & Albarracin discusses the results of novel analyses that were previously unreported, and we share their delight at these results now being part of the published literature.
-
-In their first analysis, they address exactly one of the problems in meta-analytic approaches that we have discussed in our original paper and elsewhere in this rejoinder: the validity of the operationalisation of the independent variable. White & Albarracin report the aggregated effect sizes found for behavior when threatening communications were compared to a passive control group. They find a 95% confidence interval of [0.207; 0.506], an effect that decreased but remained positive when the behavior was not a one-shot behavior (95% CI of [0.114; 0.452]).
-
-As White & Albarracin conclude,
-
-> when fear appeals are compared with no message or with a message with a lower fear level, the answer to the question of efficacy is a resounding “yes, they work!”
-
-## A resounding "Yes, they work!"
-
-We retain some reservations which we will explain below, but first let us assume for the sake of the argument that we agree: this would, however, lead us to reiterate the point partly made by White and Albarracin as well: 
-
-> However, our team has also shown that fear is less effective than more sophisticated and expensive interventions such as those designed to train new behavioral skills among recipients, although they are rarely less effective than no intervention (c.f. Earl & Albarracín, 2007; for other emotional appeals, see Earl, Nisson, & Albarracín, 2015).
-
-Fear is not the only or the best way to go. It is not even the cheapest way to go. One of the benefits of warning labels is that, once the required legislation is in place, the costs are almost entirely borne by the industry. However, this is not a characteristic of warning labels: it is a characteristic of health communications on packages of cigarettes. Such health communications can target any determinant of behavior, using any of the multitude of behavior change methods. Exploiting this advantage associated to information on tobacco packaging in no way restrains that information to fear inducing information.
-
-Therefore, the question of efficacy so resoundingly answered by White and Albarracin (2018) with a "yes, they work!" is in fact a question that does not need to be answered in order to realise optimal behavior change potential. The question is not "do fear appeals work?", the question is "which health communication should be included on tobacco packaging the achieve the most effect?". As we probably all teach when we train students and professionals in systematic development of theory and evidence based behavior change interventions, the reply to that question is always at least two counter-questions. First, "what are the most important determinants of the target behavior", and second, "which behavior change methods are most effective to change these determinants?".
-
-## A premature "Yes, they work!"
-
-Our reservations are based on two points. The first is that eyeballing Figure 1 suggests to us that there may be publication bias; there appears to be a positive association between the effect on behavior and the variance of that effect size. The most well-known parameter determining effect size variance (the width of its sampling distribution) is sample size (more data points yield tighter sampling distributions with lower variance), but better designs and higher quality operationalisations can also decrease error variance and thereby decrease effect size variance. In general, better studies yield more accurate effect size estimates, and therefore those studies receive bigger weights in meta-regressions. If effect size variance is positively associated to effect size, that implies that studies that among the included studies, those studies finding the smallest effects are the highest-quality studies; a scenario implying that the studies finding the largest effects may represent, for example, Type 1 errors.
-
-Unfortunately, they did not fully disclose (Peters, Abraham & Crutzen, 2012???) their data and analysis scripts --> checken of we dit niet kunnen vinden in Tannenbaum, en zoja, narekenen!
-
-The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated. Failing such a design, 
-
-
-
-relating to the pwhat meta-analyses can and cannot 
-
-
-It appears from their Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
-
-At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitizer` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression, the regression coefficient is no longer distinguishable from zero.
-
-<!--------------------------------------------------------------------->
-<!--------------------------------------------------------------------->
-
 # Peters & Shoots-Reinhard: Don’t throw the baby out with the bath water
 
 Ellen Peters and Brittany Shoots-Reinhard argue that the baby should not be thrown out with the bath water. We agree, but add that although this particular baby should not be thrown away, it should be avoided whenever possible, only to be used with great reluctance.
@@ -410,6 +378,52 @@ Finally, they agree that without efficacy support, effects of threatening commun
 There seems to be some insistence on retaining warning labels. Developing behavior change interventions requires two steps that are both common sense and theoretically sensible: first, establish which determinants are the best intervention targets (i.e. are most strongly associated to behavior), and second, establish which methods for behavior change are most likely to achieve large effects in those determinants. Insistence on one specific method that targets one specific determinant (i.e. warning labels) seems odd. Especially because the defense of warning labels consists not of meta-analyses showing that yes, risk perception is the strongest predictor of successfully refraining from trying out tobacco or of successfully quitting smoking, and that yes, warning labels are the most potent available method to increase those risk perceptions, but instead of studies the results of which happen to not be inconsistent with warning labels having no effect whatsoever.
 
 The fact that our suggestion is taken to be a call to explore new, innovative methods, may be indicative as to the underlying problem. This was a misunderstanding. We meant to suggest that application of time-honoured best practices to assistent smokers and vulnerable nonsmokers is long overdue. The basic logic of first establishing the relevant determinants and then consulting psychological theory to learn how to most effectively influence those determinants was already outlined in XXXX [AANVULLEN; GERJO WEET VAST WANNEER DAT HET EERST GEBEURDE; OOK EERSTE EN LAATSTE IM REFS TOEVOEGEN, EN ELP PAPER ALS SUPERRECENTE 2018 REF)
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+# Roberto, Mongeau & Liu: A (Re)defining moment for fear appeals
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+
+# White & Albarracin: Investigating Belief Falsehood. Fear Appeals Do Change Behavior in Experimental Laboratory Studies
+
+The commentary by White & Albarracin discusses the results of novel analyses that were previously unreported, and we share their delight at these results now being part of the published literature.
+
+In their first analysis, they address exactly one of the problems in meta-analytic approaches that we have discussed in our original paper and elsewhere in this rejoinder: the validity of the operationalisation of the independent variable. White & Albarracin report the aggregated effect sizes found for behavior when threatening communications were compared to a passive control group. They find a 95% confidence interval of [0.207; 0.506], an effect that decreased but remained positive when the behavior was not a one-shot behavior (95% CI of [0.114; 0.452]).
+
+As White & Albarracin conclude,
+
+> when fear appeals are compared with no message or with a message with a lower fear level, the answer to the question of efficacy is a resounding “yes, they work!”
+
+## A resounding "Yes, they work!"
+
+We retain some reservations which we will explain below, but first let us assume for the sake of the argument that we agree: this would, however, lead us to reiterate the point partly made by White and Albarracin as well: 
+
+> However, our team has also shown that fear is less effective than more sophisticated and expensive interventions such as those designed to train new behavioral skills among recipients, although they are rarely less effective than no intervention (c.f. Earl & Albarracín, 2007; for other emotional appeals, see Earl, Nisson, & Albarracín, 2015).
+
+Fear is not the only or the best way to go. It is not even the cheapest way to go. One of the benefits of warning labels is that, once the required legislation is in place, the costs are almost entirely borne by the industry. However, this is not a characteristic of warning labels: it is a characteristic of health communications on packages of cigarettes. Such health communications can target any determinant of behavior, using any of the multitude of behavior change methods. Exploiting this advantage associated to information on tobacco packaging in no way restrains that information to fear inducing information.
+
+Therefore, the question of efficacy so resoundingly answered by White and Albarracin (2018) with a "yes, they work!" is in fact a question that does not need to be answered in order to realise optimal behavior change potential. The question is not "do fear appeals work?", the question is "which health communication should be included on tobacco packaging the achieve the most effect?". As we probably all teach when we train students and professionals in systematic development of theory and evidence based behavior change interventions, the reply to that question is always at least two counter-questions. First, "what are the most important determinants of the target behavior", and second, "which behavior change methods are most effective to change these determinants?".
+
+## A premature "Yes, they work!"
+
+Our reservations are based on two points. The first is that eyeballing Figure 1 suggests to us that there may be publication bias; there appears to be a positive association between the effect on behavior and the variance of that effect size. The most well-known parameter determining effect size variance (the width of its sampling distribution) is sample size (more data points yield tighter sampling distributions with lower variance), but better designs and higher quality operationalisations can also decrease error variance and thereby decrease effect size variance. In general, better studies yield more accurate effect size estimates, and therefore those studies receive bigger weights in meta-regressions. If effect size variance is positively associated to effect size, that implies that studies that among the included studies, those studies finding the smallest effects are the highest-quality studies; a scenario implying that the studies finding the largest effects may represent, for example, Type 1 errors.
+
+Unfortunately, they did not fully disclose (Peters, Abraham & Crutzen, 2012???) their data and analysis scripts --> checken of we dit niet kunnen vinden in Tannenbaum, en zoja, narekenen!
+
+The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated. Failing such a design, 
+
+
+
+relating to the pwhat meta-analyses can and cannot 
+
+
+It appears from their Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
+
+At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitizer` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression, the regression coefficient is no longer distinguishable from zero.
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
