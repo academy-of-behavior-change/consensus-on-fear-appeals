@@ -44,7 +44,7 @@ So, we argued as follows:
 
 In addition to this core argument, we also analysed why threatening communication as a method is so popular.
 
-First, threatening communication is appealing. [[[STUK VAN GILL INVOEGEN]]]
+As we mentioned in our paper, the belief in fear appeals is intuitive and persistent in lay people. So far, we did not manage to suppress this 'naïve theory' with scientific arguments and we obviously have not convinced some of our colleagues that fear appeals (with a strong focus on threat) are relatively ineffective. However, our observation that naïve theories are not easily replaced by scientific evidence is a phenomenon also seen in earlier studies (e.g., Shtulman & Valcarcel, 2012). In our own studies, evidence and theory were not enough to counter the intuitive ideas about fear appeals in students (ten Hoor et al., 2012), nor in intervention developers, policymakers, politicians, scientists, and advertising professionals (Peters et al., 2017). Additionally Peters et al. (2014) have shown that those who are further removed from intervention development (e.g. funders) were more in favor of fear appeals (Peters, Ruiter, Verboon & Kok, 2017).
 
 However, this is never used as an argument in discourse about threatening communication. Instead, other arguments are used:
 
@@ -52,16 +52,15 @@ However, this is never used as an argument in discourse about threatening commun
 2. Experimental designs (RTCs) are so hard to implement when evaluating health promotion campaigns that deriving casual conclusions from observational designs is justified.
 3. Experimental designs (RCTs) have insufficient external validity, and threatening communication relies in aspects of reality that cannot be captured in controlled designs, so deriving casual conclusions from observational designs is justified.
 4. Studies measuring proxies of behavior, such as intention or attitude, show effects of threatening communication.
-5. Perceived threat and fear are not the only determinants targeted by warning labels: they also target negative affect and disgust.
 
-We countered each of these arguments as follows:
+We aimed to pre-emptively counter each of these arguments as follows:
 
-1. It is challenging to conduct experiments that have both high internal and external validity when studying the effects of threatening communications in large-scale health promotion campaigns (such as warning labels). However, this is not impossible, and this degree of difficulty does not elevate observational evidence to the level where it affords causal conclusions.
-2. In the case of threatening communication, self-reports of reasoned behavioral determinants such as attitude and  intention have low validity. This is the case because
+1. It is indeed challenging to conduct experiments that have both high internal and high external validity when studying the effects of threatening communications in large-scale health promotion campaigns (such as warning labels). However, this degree of difficulty does not elevate observational evidence to the level where it affords causal conclusions.
+2. It is not *impossible* to conduct experiments that have both high internal validity and high external validity. For example, while randomizing participants to a condition where they have to smoke is unethical, such 'show stopping' obstacles don't exist in this case. The fact that something is expensive, hard or inconvenient should not mean we therefore refrain from doing it, or lower our evidential standards.
+3. If lower-quality evidence (e.g. observational studies) is not in agreement with higher-quality evidence (fundamental studies designed to establish how psychological processes work), the lower-quality evidence should not prevail, not even if there is a lot of that lower-quality evidence (the lower-quality evidence can, after all, be obtained through applied research, which is easier to obtain funding for).
+4. In the case of threatening communication, self-reports of reasoned behavioral determinants such as attitude and  intention have low validity.
 
-[[[AFMAKEN ETC- STUKJES VAN HIER BENEDEN HALEN EN HIER NEERZETTEN, EN DAN HIER BENEDEN VERWIJZEN NAAR BOVEN]]]
-
-We will refer back to these points as we discuss each commentary below, in alphabetical order.
+The commentaries respond both to our arguments why threatening communication is almost always best foregone in favour of other methods of behavior change that target other determinants of behavior, and to our pre-empting of counter-arguments against those primary arguments. We will refer back to these points as we discuss each commentary below, in alphabetical order.
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -255,6 +254,8 @@ In contrast, in our original paper, we argued:
 
 > [...], self-efficacy will most probably be very low (most smokers have unsuccessfully tried quitting a number of times, see Condiotte & Lichtenstein, 1981; John, Meyer, Hapke, Rumpf, &  Schumann, 2004; Smit, Hoving, Schelleman-Offermans, West, & De Vries, 2014; Zhou et al., 2009).
 
+
+
 We see now that we were insufficiently clear. Self-efficacy is a very important determinant for many behaviors, but there are very few behavioral determinants that represent both necessary and sufficient conditions for behavior change. Behavior and behavior change are the result of a complex interplay of many factors. Therefore, behavior change is possible under low efficacy: it's just unlikely. In other words, smokers who manage to quite after repeated failures to do so, quit *despite low self-efficacy*, not because of high self-efficacy. One cannot derive high self-efficacy from failure. One of the sources of self-efficacy as postulated in Social Cognitive Theory is obtaining mastery experiences; and conversely, repeatedly experiencing failure decreases self-efficacy. This makes sense: otherwise people would never accept that they lack certain skills, and continue trying forever.
 
 ## 
@@ -331,7 +332,7 @@ The goal of fear control processes is to decrease the experienced fear; they
  operationalisations of intention that rely on self-reports are 
 
 
-They then contest that reporting high intentions is a fear control process. They discount two studies we cited that showed that threatening communications yielded higher self-reported intentions yet no effects on behavior. It is true that these studies are underpowered. At the same time, otherwise they are methodologically adequate, and they represent the sum-total of evidence in this respect. To our knowledge, there exist no studies where a fear manipulation yielded increases in intention (or, for that matter, attitude or risk perception) that *did* translate to behavior change. On the other hand, there is the body of evidence on which the original formulation of the Extended Parallel Process Model was based (REFERENTIE UIT WITTE, 1992, p. 336).
+They then contest that reporting high intentions is a fear control process. They discount two studies we cited that showed that threatening communications yielded higher self-reported intentions yet no effects on behavior. It is true that these studies are underpowered. At the same time, otherwise they are methodologically adequate, and they represent the sum total of evidence in this respect. To our knowledge, there exist no studies where a fear manipulation yielded increases in intention (or, for that matter, attitude or risk perception) that *did* translate to behavior change. On the other hand, there is the body of evidence on which the original formulation of the Extended Parallel Process Model was based (REFERENTIE UIT WITTE, 1992, p. 336).
 
 Peters and Shoots-Reinhard then point out that it is useful to explore the conditions under which intention predicts behavior, in other words, the intention-behavior gap (REFERENCES). We agree that looking at moderators of this association is useful. Many have been studied (REFERENCE TO REVIEW). An obvious one is the degree to which a behavior is a reasoned behavior; the Reasoned Action Approach, the newest revision of the classical theory that first proposed intention as predictor of intention, is explicitly constrained to dealing with reasoned behaviors. As behaviors become more habitual, intention loses its predictive power. Other moderators are ...
 
@@ -441,22 +442,44 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 # References
 
+- Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al., Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445544
+
 - Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. JAMA Internal Medicine, 176(7), 905. http://doi.org/10.1001/jamainternmed.2016.2621
+
+- Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445545
 
 - Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. Communications in Statistics: Simulation and Computation, 39(4), 860–864. http://doi.org/10.1080/03610911003650383
 
 - Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. The ANNALS of the American Academy of Political and Social Science, 628(1), 200–208. https://doi.org/10.1177/0002716209351526
 
+- Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445541
+
 - McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. Health Psychology Review, 5(2), 97–144. https://doi.org/10.1080/17437199.2010.521684
+
+- Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445543
 
 - Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. European Health Psychologist, 16(5), 156–170.
 
 - Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). Health Psychology Review, 10(3), 265–268. https://doi.org/10.1080/17437199.2016.1190658
 
+- Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. International Journal of Psychology, 49 (2), 71-79. http://doi.org/10.1002/ijop.12000  
+
+- Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. Retrieved from http://osf.io/preprints/psyarxiv/vehtx
+
+- Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445542
+
+- Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445546
+
 - Roe, R. A. (2012). What is wrong with mediators and moderators? The European Health Psychologist, 14(1), 4–10.
 
-- Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. http://doi.org/10.1300/J079v21n04_02
+- Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. https://doi.org/10.1300/J079v21n04_02
+
+- Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. Cognition, 124(2), 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
 
 - Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851. https://doi.org/10.1037/0022-3514.89.6.845
+
+- ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. BMC Public Health, 12:1011. https://doi.org/10.1186/1471-2458-12-1011
+
+- White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). Health Psychology Review, 2018,  https://doi.org/10.1080/17437199.2018.1448292
 
 # Footnotes
