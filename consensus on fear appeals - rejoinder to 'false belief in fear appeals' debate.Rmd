@@ -67,8 +67,77 @@ The commentaries respond both to our arguments why threatening communication is 
 
 # Borland: Misinterpreting theory and ignoring evidence: fear appeals can actually work
 
+Borland's commentary is a good example of why there is less disagreement than one might think at first glance. However, this commentrary also suggests that we did not manage to convey our exact position sufficiently clearly, for which we hereby would like to apologise. We will now correct that error.
 
+## Fear appeals *can*, indeed, work
 
+Most of Borland's commentary is well summarized by the commentary title: "fear appeals can actually work".
+
+We agree that fear appeals can work. Actually, when the method is applied as prescribed (see e.g. Kok et al., 2016), and so includes a component that effectively increases self-efficacy in the target individual, we'd even agree that fear appeals will work as a rule. If the method is not used correctly, for example when severity is targeted but susceptibility and efficacy are not, we'd say that as a rule, fear appeals will *not* work (unless the target individual already has high susceptibility and high efficacy).
+
+In a situation where fear appeals have no effect, of course, in some samples an effect will be found nonetheless. When an alpha of 5% is used, that effect will be significant in one in twenty studies. In the absence of consistent and comprehensive preregistration, the garden of forking paths (Gelman & Loken, 2014), or, if one is cynically inclined, researcher degrees of freedom (Simmons, Nelson & Simonsohn, 2011; 2012), can interact with publication bias to spawn a literature where occcasionally, evidence of fear appeal effectiveness can be found.
+
+However, as we said, we don't believe all reports of effective fear appeal interventions are statistical artifacts. We believe that when well applied, fear appeals can have an effect and successfully increase risk perception, which may ultimately translate into an effect on behavior.
+
+## In situations where fear appeals work, they're relatively impotent
+
+However, our point was not that fear appeals can never have an effect. Our point was that even though fear appeals might work, they are usually an unwise choice. There are two reasons for this.
+
+First, proper use of fear appeals requires also increasing efficacy. Whereas an intervention targeting efficacy, if used in isolation, can be successsful even if it achieves relatively small effects, a efficacy intervention that is used to enable a threat intervention to change behavior must have a substantial effect. After all, it needs to increase efficacy to sufficiently high levels to prevent defensive reactions.
+
+Second, if one succeeds in coupling such a potent efficacy intervention with a successful threat intervention, one can expect the fear appeal to increase risk perception. However, even then, risk perception is not usually one of the strongest predictors of behavior. Quite the opposite; risk perception is a relatively weak predictor of behavior.
+
+Therefore, when efficacy is high or successfully increased, so if a fear appeal is optimally successful, the weak association of the targeted determinant, risk perception, with behavior attenuates that effect considerably.
+
+Now, we disagree on what happens in situations where efficacy is low. But, as we discuss in the main text of the rejoinder, we all agree that threat manipulations have in the best case scenario lower effectiveness in low efficacy situations. Given the relatively small role risk perception plays in behavior, in this best case scenario, any effect remaining of threat communications is then attenuated.
+
+Thus, using fear appeals requires quite an effort (i.e. increasing efficacy to moderate-to-high levels) to achieve the maximum possible effect on risk perception, and even after all that effort, because risk perception is a comparatively weak determinant of behavior, only a weak effect can be expected on behavior.
+
+If all that effort were to be invested in targeting other determinants, such as self-efficacy, response efficacy, attitude, or perceived norms (to name but a few potential intervention targets), one can expect a much stronger effect on behavior. There are two reasons for this, which mirror the reasons why fear appeals are an unwise choice.
+
+First, most behavior change methods do not have conditions for effectiveness (Peters & Kok, 2016; Kok et al., 2016) that are quite so hard to meet, and for most behavior change methods, there are no debates where it is discussed whether failing tot satisfy those conditions can result in backfiring. Thus, correctly applying other methods for behavior change is easier and so less likely to fail, and the potential costs for failure are lower (i.e. no risk at occasional backfiring).
+
+Second, other methods can target other determinants. since risk perception is, compared to other determinants such as self-efficacy, a relatively weak predictor of behavior, targeting other determinants has more potential for achieving behavior change.
+
+## Fear appeals can work, but other solutions work *better*
+
+Our argument is that to realise the optimal effect on behavior, fear appeals are a particularly unwise choice. The optimal intervention targets the most important determinant(s) using the methods that have the strongest effect on those determinant(s). The mere fact that stronger predictors of behavior exist in our view makes threatening communication hard to justify. Sure, it can have an effect. But at-risk population deserve more than 'an effect': they deserve the strongest effect we can realise.
+
+Because of these reasons, we also disagree with Borland's (2018) claim that:
+
+> Kok et al. manage to avoid the findings of their own meta-analysis (Peters, Ruiter, & Kok, 2013) showing cases where fear appeals can work, especially when self-efficacy is high. It was common enough in these cases to find significant effects, thus they should have concluded that they can be common enough to be important factors in behaviour change.
+
+As we argued, finding some positive effects does not justify concluding that risk perception or threat communications can be an *important* factor. It is enough to conclude that it can be a factor; but comparison to the effects of other methods, targeting other determinants, is required to draw conclusions about importance.
+
+## What constitutes evidence?
+
+Borland also argues:
+
+> Extensive reviews of the population-level impacts of health communications, especially for smoking, clearly shows that graphic imagery including graphic personal stories, are the most effective way of communicating the risks of smoking and stimulating quitting activity (Durkin, Brennan, & Wakefield, 2012; National Cancer Institute, 2008; Wakefield, Liken, & Hornik, 2010). This evidence is ignored.
+
+We have looked for evidence as to the relative effectiveness of threatening communication in these reviews, but found none. There does not seem to have been a comparison of different methods of behavior change, or behavior change techniques (BCTssee, for example, the milestone BCT taxonomy paper by Abraham & Michie, 2008, and the more recent Michie et al., 2013 paper, as well as the Intervention Mapping taxonomy paper, Kok et al., 2016).
+
+Now, the feasibility of learning about relative effectiveness of behavior change techniques through meta-analyses of applied evaluations of intervention campaigns has been strongly critized (Ogden, 2016; Peters & Kok, 2016; Peters, de Bruin & Crutzen, 2015). Still, any meta-analysis seeking to answer the question of which method is most effective should at least compare meta-analysed effect size estimates, or engage in some other systematic form of comparison, as well as explore publication bias, before conclusions can be drawn.
+
+Thus, we did not ignore this evidence. We weighed it and found it wanting.
+
+## Reactance dissapating
+
+Borland cites one study to support his argument that perhaps, defensive reactions dissipate while some impact of threatening communication remains. However, this study did not compare threatening to non-threatening communications.
+
+Instead, the study compared high intensity language messages (such as "Skin cancer is a grotesque growth of skin cells.", "Treatment of skin cancer involves cutting or burning tumors from the skin.", and "Tragically, about 7,200 Americans will die from melanoma, a very serious type of skin cancer, this year alone.") with low intensity language messages (such as "Skin cancer is an unusual growth of skin cells.", "Treatment of skin cancer involves removing tumors from the skin." and "Sadly, about 7,200 Americans will die from melanoma, a very serious type of skin cancer, this year alone."). It also compared messages formatted in inductive versus deductive logical styles (see Buller, Borland & Burgoon, 1998).
+
+So, first, it is unlikely that these manipulations are valid operationalisations of threat (i.e. it is unlikely that the messages have different effects on perceived threat; and the study reports no measures that allow us to verify this).
+
+Second, the study's authors stated "There were also some trends, but as the sample size is large in this group, they are not considered." (Buller, Borland & Burgoon, 1998). It appears odd to then ignore that directive and consider a trend as evidence nonetheless (considering trends as evidence is odd in any situation, but especially when the study's authors recommend against it).
+
+Thus, this study does not appear to support the possiblity of dissapating reactance.
+
+Of course, that does not mean that reactance does not dissapate. Absence of evidence, after all, is not evidence of absence.
+
+We know of no systematic investigations of such dissapating reactance effects. It seems easy enough to study, so we would welcome preregistrations to explore this, especially when they apply full disclosure (Peters, Abraham & Crutzen, 2012) to enable swift or even parallel replications. Until such time as the results are in, however, it seems premature to assume that reactance dissipates yet effects on risk perception remain.
+
+However, even if such effects on risk perception *would* remain, we refer back to our points made earlier: this still would not mean that fear appeals, or threatening communication, are a wise choice when one truly desires to be of most help to at-risk populations. Other methods of behavior change, targeting other determinants of behavior, can have stronger effects.
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -442,13 +511,19 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 # References
 
+- Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. Health Psychology : Official Journal of the Division of Health Psychology, American Psychological Association, 27(3), 379–87. http://doi.org/10.1037/0278-6133.27.3.379
+
 - Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al., Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445544
 
 - Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. JAMA Internal Medicine, 176(7), 905. http://doi.org/10.1001/jamainternmed.2016.2621
 
 - Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445545
 
+- Buller, D., Borland, R., & Burgoon, M. (1998). Impact of behavioural intention on effectiveness of message features: Evidence from the family sun safety project. Human Communication Research, 24(3), 433-453. 
+
 - Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. Communications in Statistics: Simulation and Computation, 39(4), 860–864. http://doi.org/10.1080/03610911003650383
+
+- Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Psychological Bulletin, 140(5), 1272–1280. http://doi.org/dx.doi.org/10.1037/a0037714
 
 - Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. The ANNALS of the American Academy of Political and Social Science, 628(1), 200–208. https://doi.org/10.1177/0002716209351526
 
@@ -456,9 +531,19 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 - McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. Health Psychology Review, 5(2), 97–144. https://doi.org/10.1080/17437199.2010.521684
 
+- Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine. http://doi.org/10.1007/s12160-013-9486-6
+
 - Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445543
 
 - Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. European Health Psychologist, 16(5), 156–170.
+
+- Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Guy, S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behaviour change methods : an Intervention Mapping approach A taxonomy of behaviour change methods : an Intervention, 7199(March 2017). http://doi.org/10.1080/17437199.2015.1077155
+
+- Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. Health Psychology Review, 10(3), 245–250. http://doi.org/https://doi.org/10.1080/17437199.2016.1190291
+
+- Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). Full disclosure: doing behavioural science necessitates sharing. The European Health Psychologist, 14, 77–84.
+
+- Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. Health Psychology Review, 9(1), 1–14. http://doi.org/10.1080/17437199.2013.848409
 
 - Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). Health Psychology Review, 10(3), 265–268. https://doi.org/10.1080/17437199.2016.1190658
 
@@ -475,6 +560,10 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. https://doi.org/10.1300/J079v21n04_02
 
 - Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. Cognition, 124(2), 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
+
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–66. http://doi.org/10.1177/0956797611417632
+
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. SSRN Electronic Journal, 1–4. http://doi.org/10.2139/ssrn.2160588
 
 - Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851. https://doi.org/10.1037/0022-3514.89.6.845
 
