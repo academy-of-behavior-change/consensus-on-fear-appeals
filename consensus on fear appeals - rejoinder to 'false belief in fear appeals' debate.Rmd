@@ -66,11 +66,11 @@ We aimed to pre-emptively counter each of these arguments as follows:
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
-# Two premises
+# Two preliminary points
 
-## Risk perception is a relatively unimportant determinant of smoking initiation and cessation
+## The importance of risk perception for behavior
 
-As we argued in the original paper, risk perception is a weak predictor of behavior compared to other determinants. Our argument was mainly based on theories that explain health behavior. We will here supplement this argument with some empirical data. We have started a systematic literature synthesis to summarize the literature on determinants of smoking initiation and successful smoking cessation.
+As we argued in the original paper, risk perception is a relatively unimportant predictor of behavior compared to other determinants. Our argument was mainly based on theories that explain health behavior. We will here supplement this argument with some empirical data. We have started a systematic literature synthesis to summarize the literature on determinants of smoking initiation and successful smoking cessation.
 
 Although still very much a work in progress (see the [Open Science Framework repository](https://osf.io/vs39h/)), we have processed enough papers to give some initial impression of which determinants have been studied, and what the relative importance of these determinants is.
 
@@ -86,7 +86,23 @@ Overall, the conclusion is that targeting risk perception does not seem an obvio
 
 Now, as we said, this project is still very much a work in progress. Other determinants may emerge as most important for initiation and successful cessation, and these results should not yet be used to base policies or intervention on.
 
-However, they *should* clearly show that risk perception is just one of many determinants that can be targeted; and by no means an obvious 'default choice'. Targeting risk perception requires justification - and the justification should be based on a comparison with other potential intervention targets, not on the simple fact that the association of risk perception to behavior is not completely absent.
+However, they *should* clearly show that risk perception is just one of many determinants that can be targeted; and by no means an obvious 'default choice'. Targeting risk perception (or any determinant) requires justification - and the justification should be based on a comparison with other potential intervention targets (i.e. other determinants), not on the simple fact that the association of risk perception to behavior is not completely absent.
+
+## The validity of self-reported intention as operationalisation of intention
+
+In our original paper, we have not been sufficiently clear about why measures of intention are problematic in the context of interventions employing threatening communication. We understand from the commentaries that our problem with intention was sometimes assumed to be based on intention being a weak predictor in the case of behaviors commonly targeted using threatening communication. This is not the case: we did not mean that intention as a psychological construct has less predictive value.
+
+We meant that threatening communications invalidate *self-report measures* of intention. Specifically, operationalisations of the intention construct that rely on self-reports have lower validity if participants are engaging in fear control. These fear control processes are initiated in response to threatening communication if individuals believe they cannot effectively deter a threat (Witte, 1992).
+
+The goal of fear control processes is to decrease the experienced fear. This is a functional process that facilitates effective functioning (van 't Riet & Ruiter, 2013). Research into fear control processes is plentiful and has resulted in four main categories of fear control processes being distinguished: avoidance, denial, suppression, and cognitive reappraisal. Cognitive reappraisal decreases the experienced fear by engaging other beliefs: "someone who receives threatening information can also use a defence strategy in which the threat is neither avoided nor denied, but additional beliefs are adopted so that the threat is encompassed in a cognitive 'business as usual' framework" (van 't Riet & Ruiter, 2013, p. 23). Reporting a high intention to change the risk behavior represents a form of cognitive reappraisal.
+
+For example, imagine a target individual who does not consistently get enough sleep. A threatening communication might target the perceived severity of a lack of adequate sleep by presenting graphic depictions of short- and long-term consequences such as deteriorated judgment, mood, and learning ability, and increased risks of obesity, cardiovascular disease, and mortality. Exposure to such a communication will trigger threat appraisal, and if the outcome is both a high perceived severity and a high perceived susceptibility, the target individual will engage in coping appraisal. If the individual can identify one or more actions that effectively diminish the threat and that the individual is confident they can perform
+
+, they engage in fear control processes.
+
+
+
+
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -419,30 +435,26 @@ Peters' and Shoots-Reinhard's argument is based on their statement that
 
 > a strong base of converging evidence supports effectiveness of pictorial warning labels, with similar results shown for improving knowledge and encouraging smoking cessation (through either quit intentions or behavior change) in controlled experiments including recent clinical trials and large international observational studies (e.g., Brewer et al., 2016; Evans et al., 2015; Noar et al., 2016a, 2016b; Romer et al., 2018).
 
-Inspection of these papers they cite shows that 
+[[[INSPECT PAPERS]]]
 
-[CONTINUE LATER]
+## Using behavioral intentions to study the effect of threatening communication
 
-## The validity of self-reported intention as operationalisation of intention
+Peters and Shoots-Reinhard then argue that intention is a good predictor of behavior. We mostly agree (but would like to add an important nuance that is relevant regarding smoking). 
 
-Peters and Shoots-Reinhard then argue that intention is a good predictor of behavior. We mostly agree (but would like to add an important nuance that is relevant regarding smoking). But before going into the predictive value of intention (and therefore, the usefulness of measuring intention instead of behavior when studying behavior change interventions), allow us to correct a mistake we made.
-
-We have not been sufficiently clear about why measures of intention are problematic in the context of interventions employing threatening communication. We did not mean that intention as a psychological construct has less predictive value. We meant that threatening communications invalidate *self-report measures* of intention. Specifically, operationalisations of the intention construct that rely on self-reports have lower validity if participants are engaging in fear control. These fear control processes are initiated in response to threatening communication if individuals believe they cannot effectively deter a threat (Witte, 1992).
-
-The goal of fear control processes is to decrease the experienced fear; they 
-
- operationalisations of intention that rely on self-reports are 
+But before going into the predictive value of intention (and therefore, the usefulness of measuring intention instead of behavior when studying behavior change interventions), let us refer back to the earlier section in this supplementary file, where we explained why it is unwise to trust the  validity of self-reports as operationalisations of intention when studying thre.
 
 
 They then contest that reporting high intentions is a fear control process. They discount two studies we cited that showed that threatening communications yielded higher self-reported intentions yet no effects on behavior. It is true that these studies are underpowered. At the same time, otherwise they are methodologically adequate, and they represent the sum total of evidence in this respect. To our knowledge, there exist no studies where a fear manipulation yielded increases in intention (or, for that matter, attitude or risk perception) that *did* translate to behavior change. On the other hand, there is the body of evidence on which the original formulation of the Extended Parallel Process Model was based (REFERENTIE UIT WITTE, 1992, p. 336).
 
 Peters and Shoots-Reinhard then point out that it is useful to explore the conditions under which intention predicts behavior, in other words, the intention-behavior gap (REFERENCES). We agree that looking at moderators of this association is useful. Many have been studied (REFERENCE TO REVIEW). An obvious one is the degree to which a behavior is a reasoned behavior; the Reasoned Action Approach, the newest revision of the classical theory that first proposed intention as predictor of intention, is explicitly constrained to dealing with reasoned behaviors. As behaviors become more habitual, intention loses its predictive power. Other moderators are ...
 
-The studies cited by Peters and Shoots-Reinhard and defense of their argument that (studies bekijken)
+The studies cited by Peters and Shoots-Reinhard and defense of their argument that
+
+[[[STUDIES BEKIKJEN]]]
 
 Thus, while it may be true that both studies we cited represent Type-1 errors, that question begs resolution through research.
 
-As it stand, there seems to be sufficient reason to doubt the validity of self-reports of intention as operationalisations of intention in situations where reporting a high intention can serve as fear control. And in any case, even if self-reports of intention can be salvaged as operationalisations of intentions in fear appeal research, at best, they remain a proxy for the intervention target. The goal is not to keep people smoking but with different intentions: the goal is behavior change. The lack of evidence that fear manipulations can influence behavior on their own (even without strong self-efficacy manipulations) can mean either that this has not been studied, which would be a serious problem, that these studies have not been published. Given the prevalence of publication bias, such a suppression of null findings is not surprising, but in any case, there is little reason to expect behavior change from fear manipulations.
+As it stand, there seems to be sufficient reason to doubt the validity of self-reports of intention as operationalisations of intention in situations where reporting a high intention can serve as fear control. And in any case, even if self-reports of intention can be salvaged as operationalisations of intentions in fear appeal research, at best, they remain a proxy for the intervention target. The goal is not to keep people smoking but with different intentions: the goal is behavior change. The lack of evidence that fear manipulations can influence behavior on their own (even without strong self-efficacy manipulations) can mean either that this has not been studied, which would be a serious problem, or that these studies have not been published. Given the prevalence of publication bias, such a suppression of null findings would not be surprising. Whichever of these two scenario's turns out to be the case, given the current available evidence, there is little reason to expect behavior change from fear manipulations.
 
 ## Affect as mediator
 
@@ -601,6 +613,8 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851. https://doi.org/10.1037/0022-3514.89.6.845
 
 - ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. BMC Public Health, 12:1011. https://doi.org/10.1186/1471-2458-12-1011
+
+- Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. Health Psychology Review, 7(sup1), S104–S136. https://doi.org/10.1080/17437199.2011.606782
 
 - White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). Health Psychology Review, 2018,  https://doi.org/10.1080/17437199.2018.1448292
 
