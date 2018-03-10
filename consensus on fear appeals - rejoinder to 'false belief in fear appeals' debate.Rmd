@@ -27,6 +27,9 @@ Note that because this text is an integral part of the commentary, if you wish t
 
 This supplementary file is hosted at the [Open Science Framework](https://osf.io/a2v46/).
 
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
 # Recapping "The false belief in fear appeals"
 
 The argument that threatening communication is almost always in the best case a sub-optimal solution, and are therefore a most inconvenient default 'go to behavior change method', was based on two three premises:
@@ -60,6 +63,36 @@ We aimed to pre-emptively counter each of these arguments as follows:
 3. If lower-quality evidence (e.g. observational studies) is not in agreement with higher-quality evidence (fundamental studies designed to establish how psychological processes work), the lower-quality evidence should not prevail, not even if there is a lot of that lower-quality evidence (the lower-quality evidence can, after all, be obtained through applied research, which is easier to obtain funding for).
 4. In the case of threatening communication, self-reports of reasoned behavioral determinants such as attitude and  intention have low validity.
 
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+# Two premises
+
+## Risk perception is a relatively unimportant determinant of smoking initiation and cessation
+
+As we argued in the original paper, risk perception is a weak predictor of behavior compared to other determinants. Our argument was mainly based on theories that explain health behavior. We will here supplement this argument with some empirical data. We have started a systematic literature synthesis to summarize the literature on determinants of smoking initiation and successful smoking cessation.
+
+Although still very much a work in progress (see the [Open Science Framework repository](https://osf.io/vs39h/)), we have processed enough papers to give some initial impression of which determinants have been studied, and what the relative importance of these determinants is.
+
+So far, we extracted the most data for studies into smoking initiation. When meta-analysing the associations of determinants to smoking initiation (for behavior outcomes only), the following picture emerges (literally):
+
+![The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/initiationResults%20-%20light.png)
+
+Less studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. Here, the following picture emerges:
+
+![The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/cessationResults%20-%20light.png)
+
+Overall, the conclusion is that targeting risk perception does not seem an obvious choice. On the basis of these results, one would choose to target subjective and descriptive norms to prevent smoking initiation, and self-efficacy to promote succesful cessation.
+
+Now, as we said, this project is still very much a work in progress. Other determinants may emerge as most important for initiation and successful cessation, and these results should not yet be used to base policies or intervention on.
+
+However, they *should* clearly show that risk perception is just one of many determinants that can be targeted; and by no means an obvious 'default choice'. Targeting risk perception requires justification - and the justification should be based on a comparison with other potential intervention targets, not on the simple fact that the association of risk perception to behavior is not completely absent.
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
+# Discussing the commentaries
+
 The commentaries respond both to our arguments why threatening communication is almost always best foregone in favour of other methods of behavior change that target other determinants of behavior, and to our pre-empting of counter-arguments against those primary arguments. We will refer back to these points as we discuss each commentary below, in alphabetical order.
 
 <!--------------------------------------------------------------------->
@@ -83,9 +116,9 @@ However, as we said, we don't believe all reports of effective fear appeal inter
 
 However, our point was not that fear appeals can never have an effect. Our point was that even though fear appeals might work, they are usually an unwise choice. There are two reasons for this.
 
-First, proper use of fear appeals requires also increasing efficacy. Whereas an intervention targeting efficacy, if used in isolation, can be successsful even if it achieves relatively small effects, a efficacy intervention that is used to enable a threat intervention to change behavior must have a substantial effect. After all, it needs to increase efficacy to sufficiently high levels to prevent defensive reactions.
+First, proper use of fear appeals requires also increasing efficacy. Whereas an intervention targeting efficacy, if used in isolation, can be successsful even if it achieves relatively small effects, an efficacy intervention that is used to enable a threat-based behavior change intervention must have a substantial effect. After all, it needs to increase target individuals' efficacy to sufficiently high levels to prevent defensive reactions.
 
-Second, if one succeeds in coupling such a potent efficacy intervention with a successful threat intervention, one can expect the fear appeal to increase risk perception. However, even then, risk perception is not usually one of the strongest predictors of behavior. Quite the opposite; risk perception is a relatively weak predictor of behavior.
+Second, if one succeeds in coupling such a potent efficacy intervention with a successful threat intervention, one can indeed expect the fear appeal to increase risk perception. However, even then, risk perception is not usually one of the strongest predictors of behavior. Quite the opposite; risk perception is a relatively weak predictor of behavior.
 
 Therefore, when efficacy is high or successfully increased, so if a fear appeal is optimally successful, the weak association of the targeted determinant, risk perception, with behavior attenuates that effect considerably.
 
