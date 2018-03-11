@@ -672,6 +672,16 @@ regr(d.behavior ~ d.fear, whiteAlbarracinDat[1:8, ], plot=TRUE);
 
 ```
 
+## Should policies continue to employ fear appeals because they appear to induce positive effects?
+
+White and Albarracin conclude:
+
+> [...] that fear appeals research should continue and that policies should continue to employ fear appeals because, at the population level, they appear to induce positive effects for a wide variety of behaviors.
+
+As we argued before, showing positive effects is not enough to justify endorsement from health psychologists. Fear appeals are but one method targeting but one determinant (or in the best case scenario, a small number of determinants). Behavior has many other determinants, and many other methods exist to target those.
+
+Having some positive effect, therefore, does not suffice to warrant widespread use. We should recommend people use the most effective method, to target the most important determinant. This means that we should recommend that determinant studies are conducted first, followed by inspection of the literature to select the best available methods for behavior change. As this entails considerably more work, it may not be a popular message, but it holds the promise of much stronger effects on behavior.
+
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
