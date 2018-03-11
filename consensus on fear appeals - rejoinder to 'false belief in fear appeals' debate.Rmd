@@ -11,6 +11,7 @@ output:
 
 ```{r setup, include=FALSE}
 require(userfriendlyscience);
+safeRequire('here');
 knitr::opts_chunk$set(echo=TRUE);
 knitr::opts_chunk$set(comment=NA);
 figCountr <- function(nr = getOption("fearAppealFigureCounter", 1)) {
@@ -616,14 +617,60 @@ Therefore, the question of efficacy so resoundingly answered by White and Albarr
 
 Our reservations are based on two points. The first is that eyeballing Figure 1 suggests to us that there may be publication bias; there appears to be a positive association between the effect on behavior and the variance of that effect size. The most well-known parameter determining effect size variance (the width of its sampling distribution) is sample size (more data points yield tighter sampling distributions with lower variance), but better designs and higher quality operationalisations can also decrease error variance and thereby decrease effect size variance. In general, better studies yield more accurate effect size estimates, and therefore those studies receive bigger weights in meta-regressions. If effect size variance is positively associated to effect size, that implies that studies that among the included studies, those studies finding the smallest effects are the highest-quality studies; a scenario implying that the studies finding the largest effects may represent, for example, Type 1 errors. Unfortunately, they did not fully disclose (Peters, Abraham & Crutzen, 2012) their data and analysis scripts. 
 
-The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated. Failing such a design, 
+The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated (also see the commentary by Roberto, Mongeau & Liu: A (Re)defining moment for fear appeals). Failing such a design, validity of the test of fear appeals is jeopardized. Conclusions from literature syntheses that disregard these dynamics suffer from the same diminished validity, and so urge considerable caution. At least enough caution to warrant resounding conclusions remature.
 
+## Are truly fear-inducing appeals associated with positive behavior change? {.tabset}
+
+### Text
 
 It appears from their Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
 
-At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitizer` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression, the regression coefficient is no longer distinguishable from zero.
+At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitize` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression without those two smallest studies, the regression coefficient is no longer distinguishable from zero.
 
-[[[ DO THIS ]]]
+### Analysis
+
+```{r white-albarracin-digitize}
+
+safeRequire('digitize');
+whiteAlbarracinPlot <- here('white-albarracin-2.png');
+
+if (interactive()) {
+  digitize(whiteAlbarracinPlot);
+}
+
+### Digitizer returns:
+#                x          y
+# 1  -1.504425e-01 -0.2992701
+# 2   9.734513e-01  0.1459854
+# 3   1.044248e+00  0.5401460
+# 4   1.548673e+00  0.6131387
+# 5   1.176991e+00  0.8029197
+# 6   1.212389e+00  0.8686131
+# 7   2.220446e-16  0.9562044
+# 8  -1.504425e-01  0.2189781
+# 9   2.902655e+00  1.9781022
+# 10  3.690265e+00  1.1532847
+
+whiteAlbarracinDat <- as.data.frame(matrix(scan(text="
+ -1.504425e-01 -0.2992701
+  9.734513e-01  0.1459854
+  1.044248e+00  0.5401460
+  1.548673e+00  0.6131387
+  1.176991e+00  0.8029197
+  1.212389e+00  0.8686131
+  2.220446e-16  0.9562044
+ -1.504425e-01  0.2189781
+  2.902655e+00  1.9781022
+  3.690265e+00  1.1532847
+"), byrow=TRUE, ncol=2));
+
+names(whiteAlbarracinDat) <- c('d.fear', 'd.behavior');
+
+regr(d.behavior ~ d.fear, whiteAlbarracinDat, plot=TRUE);
+
+regr(d.behavior ~ d.fear, whiteAlbarracinDat[1:8, ], plot=TRUE);
+
+```
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
