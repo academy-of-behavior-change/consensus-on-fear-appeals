@@ -432,7 +432,7 @@ In contrast, in our original paper, we argued:
 
 We see now that we were insufficiently clear. Self-efficacy is a very important determinant for many behaviors, but there are very few behavioral determinants that represent both necessary and sufficient conditions for behavior change. Behavior and behavior change are the result of a complex interplay of many factors. Therefore, behavior change is possible under low efficacy: it's just unlikely.
 
-In other words, smokers who manage to quit after repeated failures to do so, quit *despite low self-efficacy*, not because of high self-efficacy. One cannot derive high self-efficacy from failure. One of the sources of self-efficacy as postulated in Social Cognitive Theory is obtaining mastery experiences; and conversely, repeatedly experiencing failure decreases self-efficacy. This makes sense: otherwise people would never accept that they lack certain skills, and continue trying forever (Ntoumanis & Sedikides, 2018).
+In other words, smokers who manage to quit after repeated failures to do so, quit *despite low self-efficacy*, not because of high self-efficacy. One cannot derive high self-efficacy from failure. One of the sources of self-efficacy as postulated in Social Cognitive Theory is obtaining mastery experiences; and conversely, repeatedly experiencing failure decreases self-efficacy. This makes sense: otherwise people would never accept that they lack certain skills, and continue trying forever (Ntoumanis, Healy, Sedikides, Smith & Duda, 2014; Ntoumanis & Sedikides, 2018).
 
 ## Prevention is important
 
@@ -557,9 +557,40 @@ The fact that our suggestion is taken to be a call to explore new, innovative me
 
 # Roberto, Mongeau & Liu: A (Re)defining moment for fear appeals
 
-<!--------------------------------------------------------------------->
-<!--------------------------------------------------------------------->
+Roberto, Mongeau and Liu observe that the term 'fear appeal' is often used incorrectly, and often interchangeably with *threatening communication*. They offer an interesting alternative definition:
 
+> A *fear appeal* is a persuasive message designed to both create and alleviate of the emotion of fear in audience members.
+
+This is a bit broader than the definition offered for 'fear arousal' in the taxonomy of behavior change methods by Kok et al. (2016; Table 3 in the supplementary materials at [https://osf.io/sqtuz/](https://osf.io/sqtuz/)):
+
+> Arousing negative emotional reactions in order to promote self-protective motivation and action.
+
+Accompanied by the following parameters for effectiveness:
+
+> Requires high self-efficacy expectations rather than high outcome expectations alone.
+
+The definition by Roberto, Mongeau and Liu includes 'fear alleviation' as a parameter for effectiveness, which at first glance appears broader than high self-efficacy (which, by enabling danger control, enables fear alleviation). Of the potential options, Roberto, Mongeau and Liu rightly emphasize justified fear alleviation (i.e. adaptive behavior, which does alleviate the threat), and stress that a fear appeal should contain both threat and efficacy components.
+
+They process to discuss the literature from the perspective of this definition, and on the basis of this thorough and enlightening, albeit somewhat disheartening, discussion, they suggest that the present confused state of the literature is caused by the variation in how fear appeals are applied and studied. Specifically, studies and literature syntheses rarely respect the need for all four components to be present. We agree that this is likely one of the causes, perhaps the most important one; and we think that if this debate were to contribute to improving this situation, it will already have been worthwhile.
+
+Roberto, Mongeau and Liu continue to question our claim that:
+
+> Fear appeals will in the majority of situations not change risk behavior in the desired direction, as for most behaviors targeted in health promotion interventions, self-efficacy is not high.
+
+They list a number of behaviors for which self-efficacy may well be higher, and conclude that:
+
+> fear appeals will not always be the most appropriate or effective behavioral-change strategy. For example, sometimes it may not be possible to create or alleviate fear.
+
+We agree in so far that for some populations and behaviors, it is possible that risk perception (or another determinant targeted by fear appeals) is the most important determinant of behavior, and fear appeals are the most effective method of targeting this determinant.
+
+However, we would argue that self-efficacy is only high in minority of situations. If a target population is rightly confident that they can easily change a behavior, they often will; therefore, in most of those situations, behavior change experts will not be involved as promotion of behavior change will be relatively simple.
+
+In addition, the question is not whether fear appeals can work. Having some effect on behavior does not justify the use of fear appeals: the question is whether they are the most effective method. This, we believe, will rarely be the case.
+
+Nonetheless, we took the admonition of Roberto, Mongeau and Liu to heart, and in this rejoinder, attempt to work towards consensus rather than adding to the confusion.
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
 
 # White & Albarracin: Investigating Belief Falsehood. Fear Appeals Do Change Behavior in Experimental Laboratory Studies
 
@@ -640,6 +671,12 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 - Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. The ANNALS of the American Academy of Political and Social Science, 628(1), 200–208. https://doi.org/10.1177/0002716209351526
 
+- Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. Journal of Studies on Alcohol, 43(7), 802–811.
+
+- Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. European Health Psychologist, 16(5), 156–170.
+
+- Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Guy, S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behaviour change methods : an Intervention Mapping approach A taxonomy of behaviour change methods : an Intervention, 7199(March 2017). http://doi.org/10.1080/17437199.2015.1077155
+
 - Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445541
 
 - Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health interventions: a systematic review. Journal of Epidemiology & Community Health, 1–8. http://doi.org/10.1136/jech-2016-208141
@@ -650,13 +687,9 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 - Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445543
 
+- Ntoumanis, N., Healy, L. C., Sedikides, C., Smith, A. L., & Duda, J. L. (2014). Self-Regulatory Responses to Unattainable Goals: The Role of Goal Motives. Self and Identity, 13(5), 494–612. http://doi.org/10.1080/15298868.2014.889033
+
 - Ntoumanis, N., & Sedikides, C. (2018). Holding on (to the goal) or letting it go and move on? A tripartite model of goal striving. Current Directions in Psychological Science. Retrieved from https://www.researchgate.net/publication/323676131_Holding_on_to_the_goal_or_letting_it_go_and_move_on_A_tripartite_model_of_goal_striving
-
-- Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. Journal of Studies on Alcohol, 43(7), 802–811.
-
-- Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. European Health Psychologist, 16(5), 156–170.
-
-- Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Guy, S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behaviour change methods : an Intervention Mapping approach A taxonomy of behaviour change methods : an Intervention, 7199(March 2017). http://doi.org/10.1080/17437199.2015.1077155
 
 - Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. Health Psychology Review, 10(3), 245–250. http://doi.org/https://doi.org/10.1080/17437199.2016.1190291
 
