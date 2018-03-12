@@ -215,6 +215,22 @@ To us, this hypothesis of dissapating reactance seems too unlikely to warrant em
 
 Note, however, that even if such effects on risk perception *would* remain, we refer back to our points made earlier: this still would not mean that fear appeals, or threatening communication, are a wise choice when one truly desires to be of most help to at-risk populations. Other methods of behavior change, targeting other determinants of behavior, can have stronger effects.
 
+## The complex dynamics of behavior change
+
+Borland discusses two more points that relate to the complexities of behavior change.
+
+First, the fact that target individuals are exposed to behavior change interventions in a real world, filled with other people, organisations, buildings, and other environmental conditions and dynamics, is introduced as aspects of observed reality that we supposedly ignore. However, no theories or even evidence of how these dynamics moderate the effects of behavior change interventions (such as threatening communications on tobacco packaging) are offered.
+
+Now, we do realise the important of environmental conditions for behavior change. These have a crucial role in the Intervention Mapping protocol that forms the framework for much of our health promotion intervention planning. However, the fact that interventions are administered in a complex environmental context is not magic. Potential moderation by contextual variables and processes creates a responsibility to study those hypothesized moderators using rigorous methods, so that these dynamics may be leveraged when crafting behavior change interventions. The potential presence of moderators does not justify letting observational studies prevail over more rigorous evidence.
+
+We do concur, however, that our failed attempts to influence broader policy is our failure. In our frequent contact with practitioners and policymakers alike, we often struggle with the phenomenon that our message, which boils down to things being considerably more complicated than people assume, is markedly less popular than competing messages that instead promote simplicity (such as reliance on one out of the dozens of behavior change methods, which conveniently also assuages the onus to first conduct thorough determinant studies).
+
+Second, Borland (2018) claims that we fundamentally misunderstand the nature of complex behavior change. This is an curious accusation. We are more used to being accused of complicating things, for example when we argue that meta-analyses of applied studies suffer serious methodological limitations precluding strong conclusions as to the effectiveness of behavior change methods (Peters, de Buirn & Crutzen, 2015), that psychological constructs such as risk perception and attitude do not exist as modular entities in human psychology (Peters & Crutzen, 2017), that behavior change methods represent accelerated learning and are based on evolutionary learning processes (Crutzen & Peters, 2018), and of course that effective behavior change is too complicated to allow focusing on one behavior change method, instead requiring that first the determinants of a behavior are mapped (see e.g. Bartholomew, Parcel & Kok, 1998, and Bartholomew Eldredge, Markham, Ruiter, Fernández, Kok & Parcel).
+
+However, the accusation represents more than a refreshing change of pace. It is also a bit worrying. It portrays our plea to stop treating threatening communication as the only or most optimal approach to behavior change as simplistic. This strongly suggests that our plea was insufficiently clear, given that it primarily comprises an imperative to acknowledge the complexity of behavior change.
+
+In order to correct this misunderstanding, in the main rejoinder text, we attempt to apply some of the steps required to acknowledge this complexity to the example of tobacco packaging health communication, ans we illustrate those steps visually. We hope that will help to bring our point across that things are more, not less, complicated once the insistence on fear appeal use is abandoned. We hope that the next accusation, then, will again reassuringly concern our urge that things are more, rather than less, complicated.
+
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
@@ -724,6 +740,8 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 - Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. Communications in Statistics: Simulation and Computation, 39(4), 860–864. http://doi.org/10.1080/03610911003650383
 
+- Crutzen, R., & Peters, G.-J. Y. G.-J. Y. (2017). Evolutionary learning processes as the foundation for behaviour change. Health Psychology Review, 0(0), 1–34. http://doi.org/10.1080/17437199.2017.1362569
+
 - Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Psychological Bulletin, 140(5), 1272–1280. http://doi.org/dx.doi.org/10.1037/a0037714
 
 - Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. The ANNALS of the American Academy of Political and Social Science, 628(1), 200–208. https://doi.org/10.1177/0002716209351526
@@ -771,6 +789,8 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Roe, R. A. (2012). What is wrong with mediators and moderators? The European Health Psychologist, 14(1), 4–10.
 
 - Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. https://doi.org/10.1300/J079v21n04_02
+
+- Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. Psychology & Health, 16(6), 613–630. http://doi.org/10.1080/08870440108405863
 
 - Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. Social and Personality Psychology Compass, 10(9), 503–518. http://doi.org/10.1111/spc3.12265
 
