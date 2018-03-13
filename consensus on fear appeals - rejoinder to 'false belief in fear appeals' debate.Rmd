@@ -85,11 +85,11 @@ Although still very much a work in progress (see the [Open Science Framework rep
 
 So far, we extracted the most data for studies into smoking initiation. When meta-analysing the associations of determinants to smoking initiation (for behavior outcomes only), the following picture emerges (literally):
 
-![`r figCountr()`: The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png)
+![`r figCountr();`: The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png)
 
 Less studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. Here, the following picture emerges:
 
-![`r figCountr()`: The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png)
+![`r figCountr();`: The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png)
 
 Overall, the conclusion is that targeting risk perception does not seem an obvious choice. On the basis of these results, one would choose to target subjective and descriptive norms to prevent smoking initiation, and self-efficacy to promote succesful cessation.
 
@@ -686,10 +686,32 @@ whiteAlbarracinDat <- as.data.frame(matrix(scan(text="
 
 names(whiteAlbarracinDat) <- c('d.fear', 'd.behavior');
 
-regr(d.behavior ~ d.fear, whiteAlbarracinDat, plot=TRUE);
+whiteAlbarracinOriginalRegr <- 
+  regr(d.behavior ~ d.fear,
+       whiteAlbarracinDat,
+       plot=TRUE);
 
-regr(d.behavior ~ d.fear, whiteAlbarracinDat[1:8, ], plot=TRUE);
+whiteAlbarracinNewRegr <- 
+  regr(d.behavior ~ d.fear,
+       whiteAlbarracinDat[1:8, ],
+       plot=TRUE);
 
+caption1 <- paste0(figCountr(),
+                   ': Reproduction of the original plot by White & Albarracin (2018).');
+
+caption2 <- paste0(figCountr(),
+                   ': Reproduction with the low-quality studies omitted.');
+
+```
+
+```{r white-albarracin-digitize-plot1, fig.cap=caption1, results='asis'}
+userfriendlyscience:::pander.regr(whiteAlbarracinOriginalRegr);
+whiteAlbarracinOriginalRegr$output$plot;
+```
+
+```{r white-albarracin-digitize-plot2, fig.cap=caption2, results='asis'}
+userfriendlyscience:::pander.regr(whiteAlbarracinNewRegr);
+whiteAlbarracinNewRegr$output$plot;
 ```
 
 ## Should policies continue to employ fear appeals because they appear to induce positive effects?
@@ -758,7 +780,7 @@ Crutzen, R., & Peters, G.-J. Y. (2018). Evolutionary learning processes as the f
 
 Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*. doi: <a href="https://doi.org/10.3389/fpubh.2017.00165">10.3389/fpubh.2017.00165</a>
 
-Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: <a href="https://doi.org/dx.doi.org/10.1037/a0037714">dx.doi.org/10.1037/a0037714</a>
+Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: <a href="https://doi.org/dx.doi.org/10.1037/a0037714">10.1037/a0037714</a>
 
 Glanz, K., Rimer, B. K., & Viswanath, K., Eds. (2015). *Health behavior: Theory, research, and practice* (5th ed.). San Francisco, CA: Jossey-Bass. ISBN: 978-1-118-62898-0
 
