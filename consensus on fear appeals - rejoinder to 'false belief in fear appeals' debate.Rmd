@@ -726,7 +726,11 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 # References
 
+This reference list includes the sources cited in this supplementary file as well as in the rejoinder as printed in Health Psychology Review.
+
 - Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–87. doi: <a href="https://doi.org/10.1037/0278-6133.27.3.379">10.1037/0278-6133.27.3.379</a>
+
+- Ajzen, I. (2015). The theory of planned behaviour is alive and well, and not ready to retire: A commentary on Sniehotta, Presseau, and Araújo-Soares. *Health Psychology Review, 9*, 131-137. doi: <a href="https://doi.org/10.1080/17437199.2014.883474">10.1080/17437199.2014.883474</a>
 
 - Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A process for developing theory- and evidence-based health education programs. *Health Education and Behavior, 25*, 545–563. doi: <a href="https://doi.org/10.1177/109019819802500502">10.1177/109019819802500502</a>
 
@@ -744,9 +748,15 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 - Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. *Communications in Statistics: Simulation and Computation, 39*, 860–864. doi: <a href="https://doi.org/10.1080/03610911003650383">10.1080/03610911003650383</a>
 
-- Crutzen, R., & Peters, G.-J. Y. G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: <a href="https://doi.org/10.1080/17437199.2017.1362569">10.1080/17437199.2017.1362569</a>
+- Conner, M., & Norman, P. (2015). *Predicting and changing health behaviour: Research and practice with social cognition models* (3rd Ed.). London: Open University Press. ISBN-10: 033526378X
+
+- Crutzen, R., & Peters, G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: <a href="https://doi.org/10.1080/17437199.2017.1362569">10.1080/17437199.2017.1362569</a>
+
+Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*. doi: <a href="https://doi.org/10.3389/fpubh.2017.00165">10.3389/fpubh.2017.00165</a>
 
 - Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: <a href="https://doi.org/dx.doi.org/10.1037/a0037714">dx.doi.org/10.1037/a0037714</a>
+
+- Glanz, K., Rimer, B. K., & Viswanath, K., Eds. (2015). *Health behavior: Theory, research, and practice* (5th ed.). San Francisco, CA: Jossey-Bass. ISBN: 978-1-118-62898-0
 
 - Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. *The ANNALS of the American Academy of Political and Social Science, 628*, 200–208. doi: <a href="https://doi.org/10.1177/0002716209351526">10.1177/0002716209351526</a>
 
@@ -755,6 +765,8 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. *European Health Psychologist, 16*, 156–170.
 
 - Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behavior change methods: an Intervention Mapping approach. *Health Psychology Review, 10*, 297–312. doi: <a href="https://doi.org/10.1080/17437199.2015.1077155">10.1080/17437199.2015.1077155</a>
+
+- Luszczynska, A. & Schwarzer, R.K., (2015). Health action process approach. In: M. Conner, & P. Norman, *Predicting and changing health behaviour: Research and practice with social cognition models* (3rd Ed.). London: Open University Press. ISBN-10: 033526378X
 
 - Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445541">10.1080/17437199.2018.1445541</a>
 
@@ -807,6 +819,8 @@ It is time to stop acting as if threatening communications represent the sum tot
 - Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. *Journal of Personality and Social Psychology, 89*, 845–851. doi: <a href="https://doi.org/10.1037/0022-3514.89.6.845">10.1037/0022-3514.89.6.845</a>
 
 - ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*. doi: <a href="https://doi.org/10.1186/1471-2458-12-1011">10.1186/1471-2458-12-1011</a>
+
+- Thrasher, J. F., Osman, A., Abad-Vivero, E. N., Hammond, D., Bansal-Travers, M., Michael Cummings, K., Hardin, James W. & Moodie, C. (2015). The use of cigarette package inserts to supplement pictorial health warnings: An evaluation of the canadian policy. *Nicotine and Tobacco Research, 17*, 870–875. doi: <a href="http://doi.org/10.1093/ntr/ntu246">10.1093/ntr/ntu246</a>
 
 - Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: <a href="https://doi.org/10.1080/17437199.2011.606782">10.1080/17437199.2011.606782</a>
 
