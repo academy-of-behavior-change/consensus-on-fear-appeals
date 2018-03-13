@@ -38,3 +38,5 @@ vignettes/*.pdf
 *.docx
 *.pdf
 
+# Include Figure 1
+!consensus-on-fear-appeals.pdf
