@@ -1,6 +1,5 @@
 ---
 output:
-  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -8,6 +7,8 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: false
+  pdf_document: default
+urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
@@ -758,113 +759,113 @@ This reference list includes the sources cited in this supplementary file as wel
 
 <div style="margin-left: 2em; text-indent: -2em;">
 
-Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–87. doi: <a href="https://doi.org/10.1037/0278-6133.27.3.379">10.1037/0278-6133.27.3.379</a>
+Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–87. doi: [10.1037/0278-6133.27.3.379](https://doi.org/10.1037/0278-6133.27.3.379)
 
-Ajzen, I. (2015). The theory of planned behaviour is alive and well, and not ready to retire: A commentary on Sniehotta, Presseau, and Araújo-Soares. *Health Psychology Review, 9*, 131-137. doi: <a href="https://doi.org/10.1080/17437199.2014.883474">10.1080/17437199.2014.883474</a>
+Ajzen, I. (2015). The theory of planned behaviour is alive and well, and not ready to retire: A commentary on Sniehotta, Presseau, and Araújo-Soares. *Health Psychology Review, 9*, 131-137. doi: [10.1080/17437199.2014.883474](https://doi.org/10.1080/17437199.2014.883474)
 
-Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A process for developing theory- and evidence-based health education programs. *Health Education and Behavior, 25*, 545–563. doi: <a href="https://doi.org/10.1177/109019819802500502">10.1177/109019819802500502</a>
+Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A process for developing theory- and evidence-based health education programs. *Health Education and Behavior, 25*, 545–563. doi: [10.1177/109019819802500502](https://doi.org/10.1177/109019819802500502)
 
 Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. (2016). *Planning Health Promotion Programs: An Intervention Mapping Approach* (4th ed.). Hoboken, NJ, CA: Wiley.
 
-Bartlett, Y. K., Sheeran, P., & Hawley, M. S. (2014). Effective behaviour change techniques in smoking cessation interventions for people with chronic obstructive pulmonary disease: A meta-analysis. *British Journal of Health Psychology, 19*, 181–203. doi: <a href="https://doi.org/10.1111/bjhp.12071">10.1111/bjhp.12071</a>
+Bartlett, Y. K., Sheeran, P., & Hawley, M. S. (2014). Effective behaviour change techniques in smoking cessation interventions for people with chronic obstructive pulmonary disease: A meta-analysis. *British Journal of Health Psychology, 19*, 181–203. doi: [10.1111/bjhp.12071](https://doi.org/10.1111/bjhp.12071)
 
-Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al. *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445544">10.1080/17437199.2018.1445544</a>
+Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al. *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445544](https://doi.org/10.1080/17437199.2018.1445544)
 
-Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. *JAMA Internal Medicine, 176*, 905. doi: <a href="https://doi.org/10.1001/jamainternmed.2016.2621">10.1001/jamainternmed.2016.2621</a>
+Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. *JAMA Internal Medicine, 176*, 905. doi: [10.1001/jamainternmed.2016.2621](https://doi.org/10.1001/jamainternmed.2016.2621)
 
-Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445545">10.1080/17437199.2018.1445545</a>
+Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445545](https://doi.org/10.1080/17437199.2018.1445545)
 
 Buller, D., Borland, R., & Burgoon, M. (1998). Impact of behavioural intention on effectiveness of message features: Evidence from the family sun safety project. *Human Communication Research, 24*, 433-453. 
 
-Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. *Communications in Statistics: Simulation and Computation, 39*, 860–864. doi: <a href="https://doi.org/10.1080/03610911003650383">10.1080/03610911003650383</a>
+Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. *Communications in Statistics: Simulation and Computation, 39*, 860–864. doi: [10.1080/03610911003650383](https://doi.org/10.1080/03610911003650383)
 
 Conner, M., & Norman, P. (2015). *Predicting and changing health behaviour: Research and practice with social cognition models* (3rd Ed.). London: Open University Press. ISBN-10: 033526378X
 
-Crutzen, R., & Peters, G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: <a href="https://doi.org/10.1080/17437199.2017.1362569">10.1080/17437199.2017.1362569</a>
+Crutzen, R., & Peters, G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: [10.1080/17437199.2017.1362569](https://doi.org/10.1080/17437199.2017.1362569)
 
-Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*. doi: <a href="https://doi.org/10.3389/fpubh.2017.00165">10.3389/fpubh.2017.00165</a>
+Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*. doi: [10.3389/fpubh.2017.00165](https://doi.org/10.3389/fpubh.2017.00165)
 
-Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: <a href="https://doi.org/dx.doi.org/10.1037/a0037714">10.1037/a0037714</a>
+Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: [10.1037/a0037714](https://doi.org/dx.doi.org/10.1037/a0037714)
 
 Glanz, K., Rimer, B. K., & Viswanath, K., Eds. (2015). *Health behavior: Theory, research, and practice* (5th ed.). San Francisco, CA: Jossey-Bass. ISBN: 978-1-118-62898-0
 
-Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. *The ANNALS of the American Academy of Political and Social Science, 628*, 200–208. doi: <a href="https://doi.org/10.1177/0002716209351526">10.1177/0002716209351526</a>
+Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. *The ANNALS of the American Academy of Political and Social Science, 628*, 200–208. doi: [10.1177/0002716209351526](https://doi.org/10.1177/0002716209351526)
 
 Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. *Journal of Studies on Alcohol, 43*, 802–811.
 
-Kok, G. (2014). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p156/8">A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.</a> *European Health Psychologist, 16*, 156–170.
+Kok, G. (2014). [A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.](https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p156/8) *European Health Psychologist, 16*, 156–170.
 
-Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behavior change methods: an Intervention Mapping approach. *Health Psychology Review, 10*, 297–312. doi: <a href="https://doi.org/10.1080/17437199.2015.1077155">10.1080/17437199.2015.1077155</a>
+Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behavior change methods: an Intervention Mapping approach. *Health Psychology Review, 10*, 297–312. doi: [10.1080/17437199.2015.1077155](https://doi.org/10.1080/17437199.2015.1077155)
 
 Luszczynska, A. & Schwarzer, R.K., (2015). Health action process approach. In: M. Conner, & P. Norman, *Predicting and changing health behaviour: Research and practice with social cognition models* (3rd Ed.). London: Open University Press. ISBN-10: 033526378X
 
-Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445541">10.1080/17437199.2018.1445541</a>
+Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445541](https://doi.org/10.1080/17437199.2018.1445541)
 
-Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health interventions: a systematic review. *Journal of Epidemiology & Community Health, 71*, 827–834. doi: <a href="https://doi.org/10.1136/jech-2016-208141">10.1136/jech-2016-208141</a>
+Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health interventions: a systematic review. *Journal of Epidemiology & Community Health, 71*, 827–834. doi: [10.1136/jech-2016-208141](https://doi.org/10.1136/jech-2016-208141)
 
-McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. *Health Psychology Review, 5*, 97–144. doi: <a href="https://doi.org/10.1080/17437199.2010.521684">10.1080/17437199.2010.521684</a>
+McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. *Health Psychology Review, 5*, 97–144. doi: [10.1080/17437199.2010.521684](https://doi.org/10.1080/17437199.2010.521684)
 
-Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. *Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine.* doi: <a href="https://doi.org/10.1007/s12160-013-9486-6">10.1007/s12160-013-9486-6</a>
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. *Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine.* doi: [10.1007/s12160-013-9486-6](https://doi.org/10.1007/s12160-013-9486-6)
 
-Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445543">10.1080/17437199.2018.1445543</a>
+Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445543](https://doi.org/10.1080/17437199.2018.1445543)
 
-Ntoumanis, N., Healy, L. C., Sedikides, C., Smith, A. L., & Duda, J. L. (2014). Self-Regulatory Responses to Unattainable Goals: The Role of Goal Motives. *Self and Identity, 13*, 494–612. doi: <a href="https://doi.org/10.1080/15298868.2014.889033">10.1080/15298868.2014.889033</a>
+Ntoumanis, N., Healy, L. C., Sedikides, C., Smith, A. L., & Duda, J. L. (2014). Self-Regulatory Responses to Unattainable Goals: The Role of Goal Motives. *Self and Identity, 13*, 494–612. doi: [10.1080/15298868.2014.889033](https://doi.org/10.1080/15298868.2014.889033)
 
 Ntoumanis, N., & Sedikides, C. (2018). Holding on (to the goal) or letting it go and move on? A tripartite model of goal striving. *Current Directions in Psychological Science*. Retrieved from https://www.researchgate.net/publication/323676131_Holding_on_to_the_goal_or_letting_it_go_and_move_on_A_tripartite_model_of_goal_striving
 
-Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. *Health Psychology Review, 10*, 245–250. doi: <a href="https://doi.org/https://doi.org/10.1080/17437199.2016.1190291">https://doi.org/10.1080/17437199.2016.1190291</a>
+Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. *Health Psychology Review, 10*, 245–250. doi: [https://doi.org/10.1080/17437199.2016.1190291](https://doi.org/https://doi.org/10.1080/17437199.2016.1190291)
 
-Peters, G.-J. Y. (2014). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p142">A practical guide to effective behavior change: how to identify what to change in the first place.</a> *European Health Psychologist, 16*, 142–155.
+Peters, G.-J. Y. (2014). [A practical guide to effective behavior change: how to identify what to change in the first place.](https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p142) *European Health Psychologist, 16*, 142–155.
 
-Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). <a href="https://ehps.net/ehp/index.php/contents/article/view/777/ehp.v14.i4.p77">Full disclosure: doing behavioural science necessitates sharing.</a> *The European Health Psychologist, 14*, 77–84.
+Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). [Full disclosure: doing behavioural science necessitates sharing.](https://ehps.net/ehp/index.php/contents/article/view/777/ehp.v14.i4.p77) *The European Health Psychologist, 14*, 77–84.
 
-Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. *Health Psychology Review, 9*, 1–14. doi: <a href="https://doi.org/10.1080/17437199.2013.848409">10.1080/17437199.2013.848409</a>
+Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. *Health Psychology Review, 9*, 1–14. doi: [10.1080/17437199.2013.848409](https://doi.org/10.1080/17437199.2013.848409)
 
-Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Nothing can help health psychology progress. *Health Psychology Review, 11*, 103–121. doi: <a href="https://doi.org/10.1080/17437199.2017.1284015">10.1080/17437199.2017.1284015</a>
+Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Nothing can help health psychology progress. *Health Psychology Review, 11*, 103–121. doi: [10.1080/17437199.2017.1284015](https://doi.org/10.1080/17437199.2017.1284015)
 
-Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*(3)*, 265–268. doi: <a href="https://doi.org/10.1080/17437199.2016.1190658">10.1080/17437199.2016.1190658</a>
+Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*(3)*, 265–268. doi: [10.1080/17437199.2016.1190658](https://doi.org/10.1080/17437199.2016.1190658)
 
-Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: <a href="https://doi.org/10.1002/ijop.12000">10.1002/ijop.12000  </a>
+Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: [10.1002/ijop.12000  ](https://doi.org/10.1002/ijop.12000)
 
 Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. *PsyArXiv*, retrieved from https://psyarxiv.com/vehtx
 
-Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445542">10.1080/17437199.2018.1445542</a>
+Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445542](https://doi.org/10.1080/17437199.2018.1445542)
 
-Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445546">10.1080/17437199.2018.1445546</a>
+Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445546](https://doi.org/10.1080/17437199.2018.1445546)
 
 Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. *Journal of Personality and Social Psychology, 34*, 54–61.
 
-Roe, R. A. (2012). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v14.i1.p4/31">What is wrong with mediators and moderators?</a> *The European Health Psychologist, 14*, 4–10.
+Roe, R. A. (2012). [What is wrong with mediators and moderators?](https://ehps.net/ehp/index.php/contents/article/view/ehp.v14.i1.p4/31) *The European Health Psychologist, 14*, 4–10.
 
-Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. *Journal of Social Service Research, 21*, 37–59. doi: <a href="https://doi.org/10.1300/J079v21n04_02">10.1300/J079v21n04_02</a>
+Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. *Journal of Social Service Research, 21*, 37–59. doi: [10.1300/J079v21n04_02](https://doi.org/10.1300/J079v21n04_02)
 
-Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*, 613–630. doi: <a href="https://doi.org/10.1080/08870440108405863">10.1080/08870440108405863</a>
+Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*, 613–630. doi: [10.1080/08870440108405863](https://doi.org/10.1080/08870440108405863)
 
-Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*(9)*, 503–518. doi: <a href="https://doi.org/10.1111/spc3.12265">10.1111/spc3.12265</a>
+Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*(9)*, 503–518. doi: [10.1111/spc3.12265](https://doi.org/10.1111/spc3.12265)
 
 Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. *Cognition, 124*, 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
 
-Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. *Psychological Science, 22*, 1359–66. doi: <a href="https://doi.org/10.1177/0956797611417632">10.1177/0956797611417632</a>
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. *Psychological Science, 22*, 1359–66. doi: [10.1177/0956797611417632](https://doi.org/10.1177/0956797611417632)
 
-Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. *SSRN Electronic Journal*, 1–4. doi: <a href="https://doi.org/10.2139/ssrn.2160588">10.2139/ssrn.2160588</a>
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. *SSRN Electronic Journal*, 1–4. doi: [10.2139/ssrn.2160588](https://doi.org/10.2139/ssrn.2160588)
 
-Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. *Journal of Personality and Social Psychology, 89*, 845–851. doi: <a href="https://doi.org/10.1037/0022-3514.89.6.845">10.1037/0022-3514.89.6.845</a>
+Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. *Journal of Personality and Social Psychology, 89*, 845–851. doi: [10.1037/0022-3514.89.6.845](https://doi.org/10.1037/0022-3514.89.6.845)
 
-ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*. doi: <a href="https://doi.org/10.1186/1471-2458-12-1011">10.1186/1471-2458-12-1011</a>
+ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*. doi: [10.1186/1471-2458-12-1011](https://doi.org/10.1186/1471-2458-12-1011)
 
-Thrasher, J. F., Osman, A., Abad-Vivero, E. N., Hammond, D., Bansal-Travers, M., Michael Cummings, K., Hardin, James W. & Moodie, C. (2015). The use of cigarette package inserts to supplement pictorial health warnings: An evaluation of the canadian policy. *Nicotine and Tobacco Research, 17*, 870–875. doi: <a href="http://doi.org/10.1093/ntr/ntu246">10.1093/ntr/ntu246</a>
+Thrasher, J. F., Osman, A., Abad-Vivero, E. N., Hammond, D., Bansal-Travers, M., Michael Cummings, K., Hardin, James W. & Moodie, C. (2015). The use of cigarette package inserts to supplement pictorial health warnings: An evaluation of the canadian policy. *Nicotine and Tobacco Research, 17*, 870–875. doi: [10.1093/ntr/ntu246](http://doi.org/10.1093/ntr/ntu246)
 
-Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: <a href="https://doi.org/10.1080/17437199.2011.606782">10.1080/17437199.2011.606782</a>
+Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: [10.1080/17437199.2011.606782](https://doi.org/10.1080/17437199.2011.606782)
 
-Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. *Psychological Bulletin, 132*, 249–268. doi: <a href="https://doi.org/10.1037/0033-2909.132.2.249">10.1037/0033-2909.132.2.249</a>
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. *Psychological Bulletin, 132*, 249–268. doi: [10.1037/0033-2909.132.2.249](https://doi.org/10.1037/0033-2909.132.2.249)
 
-White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). *Health Psychology Review, 12*,  doi: <a href="https://doi.org/10.1080/17437199.2018.1448292">10.1080/17437199.2018.1448292</a>
+White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). *Health Psychology Review, 12*,  doi: [10.1080/17437199.2018.1448292](https://doi.org/10.1080/17437199.2018.1448292)
 
-Whittingham, J. R. D., Ruiter, R. A. C., Bolier, L., Lemmers, L., Hasselt, N. V., & Kok, G. (2009). Avoiding Counterproductive Results: An Experimental Pretest of a Harm Reduction Intervention on Attitude Toward Party Drugs Among Users and Nonusers. *Substance Use & Misuse, 44*, 532–547. doi: <a href="https://doi.org/10.1080/10826080802347685">10.1080/10826080802347685</a>
+Whittingham, J. R. D., Ruiter, R. A. C., Bolier, L., Lemmers, L., Hasselt, N. V., & Kok, G. (2009). Avoiding Counterproductive Results: An Experimental Pretest of a Harm Reduction Intervention on Attitude Toward Party Drugs Among Users and Nonusers. *Substance Use & Misuse, 44*, 532–547. doi: [10.1080/10826080802347685](https://doi.org/10.1080/10826080802347685)
 
-Wilson, T. D., & Bar-Anan, Y. (2008). Psychology: The unseen mind. *Science, 321*, 1046–1047. doi: <a href="https://doi.org/10.1126/science.1163029">10.1126/science.1163029</a>
+Wilson, T. D., & Bar-Anan, Y. (2008). Psychology: The unseen mind. *Science, 321*, 1046–1047. doi: [10.1126/science.1163029](https://doi.org/10.1126/science.1163029)
 
-Wilson, T. D., & Dunn, E. W. (2004). Self-Knowledge: Its Limits, Value, and Potential for Improvement. *Annual Review of Psychology, 55*, 493–518. doi: <a href="https://doi.org/10.1146/annurev.psych.55.090902.141954">10.1146/annurev.psych.55.090902.141954</a>
+Wilson, T. D., & Dunn, E. W. (2004). Self-Knowledge: Its Limits, Value, and Potential for Improvement. *Annual Review of Psychology, 55*, 493–518. doi: [10.1146/annurev.psych.55.090902.141954](https://doi.org/10.1146/annurev.psych.55.090902.141954)
 
 </div>
 
