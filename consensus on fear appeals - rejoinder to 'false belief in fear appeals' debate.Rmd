@@ -565,9 +565,9 @@ None of the studies cites in this section on functions of affect provides eviden
 
 ## Pictorial warnings as one step in a larger system
 
-Finally, Peters and Shoots-Reinhard agree that without efficacy support, effects of threatening communication are lower. They then state that warnings are only one component of a larger-scale intervention. To which we say: why would you want a component that you already know has mediocre effectiveness at best, when that component can be replaced with another that can be more effective?
+Finally, Peters and Shoots-Reinhard (2018) agree that without efficacy support, effects of threatening communication are lower. They then state that warnings are only one component of a larger-scale intervention. To which we say: why would you want a component that you already know has mediocre effectiveness at best, when that component can be replaced with another that can be more effective?
 
-There seems to be some insistence on retaining warning labels. Developing behavior change interventions requires two steps that are both common sense and theoretically sensible: first, establish which determinants are the best intervention targets (i.e. are most strongly associated to behavior), and second, establish which methods for behavior change are most likely to achieve large effects in those determinants. Insistence on one specific method that targets one specific determinant (i.e. warning labels) seems odd. Especially because the defense of warning labels consists not of meta-analyses showing that yes, risk perception is the strongest predictor of successfully refraining from trying out tobacco or of successfully quitting smoking, and that yes, warning labels are the most potent available method to increase those risk perceptions, but instead of studies the results of which happen to not be inconsistent with warning labels having no effect whatsoever.
+There seems to be some insistence on retaining warning labels. Developing behavior change interventions requires two steps that are both common sense and theoretically sensible: first, establish which determinants are the best intervention targets (i.e. are most strongly associated to behavior; see e.g. Peters, 2014), and second, establish which methods for behavior change are most likely to achieve large effects in those determinants (see Kok, 2014). Insistence on one specific method that targets one specific determinant (i.e. warning labels) seems odd. Especially because the defense of warning labels consists not of meta-analyses showing that yes, risk perception is the strongest predictor of successfully refraining from trying out tobacco or of successfully quitting smoking, and that yes, warning labels are the most potent available method to increase those risk perceptions, but instead of studies the results of which happen to not be inconsistent with warning labels having no effect whatsoever.
 
 The fact that our suggestion is taken to be a call to explore new, innovative methods, may be indicative as to the underlying problem. This was a misunderstanding. We meant to suggest that application of time-honoured best practices to assistent smokers and vulnerable nonsmokers is long overdue. The basic logic of first establishing the relevant determinants and then consulting psychological theory to learn how to most effectively influence those determinants has been best practice for decades already (e.g. Bartholomew, Parcel & Kok, 1998). Perhaps this approach to prevention has not yet disseminated as widely as it deserves, which may help to explain the insistence on warning labels as health promotion intervention.
 
@@ -576,7 +576,7 @@ The fact that our suggestion is taken to be a call to explore new, innovative me
 
 # Roberto, Mongeau & Liu: A (Re)defining moment for fear appeals
 
-Roberto, Mongeau and Liu observe that the term 'fear appeal' is often used incorrectly, and often interchangeably with *threatening communication*. They offer an interesting alternative definition:
+Roberto, Mongeau and Liu (2018) observe that the term 'fear appeal' is often used incorrectly, and often interchangeably with *threatening communication*. They offer an interesting alternative definition:
 
 > A *fear appeal* is a persuasive message designed to both create and alleviate of the emotion of fear in audience members.
 
@@ -588,11 +588,11 @@ Accompanied by the following parameters for effectiveness:
 
 > Requires high self-efficacy expectations rather than high outcome expectations alone.
 
-The definition by Roberto, Mongeau and Liu includes 'fear alleviation' as a parameter for effectiveness, which at first glance appears broader than high self-efficacy (which, by enabling danger control, enables fear alleviation). Of the potential options, Roberto, Mongeau and Liu rightly emphasize justified fear alleviation (i.e. adaptive behavior, which does alleviate the threat), and stress that a fear appeal should contain both threat and efficacy components.
+The definition by Roberto, Mongeau and Liu includes 'fear alleviation' as a parameter for effectiveness, which at first glance appears broader than high self-efficacy (which, by enabling danger control, enables fear alleviation). Of the potential options, Roberto, Mongeau and Liu, 2018, rightly emphasize justified fear alleviation (i.e. adaptive behavior, which does alleviate the threat), and stress that a fear appeal should contain both threat and efficacy components.
 
 They process to discuss the literature from the perspective of this definition, and on the basis of this thorough and enlightening, albeit somewhat disheartening, discussion, they suggest that the present confused state of the literature is caused by the variation in how fear appeals are applied and studied. Specifically, studies and literature syntheses rarely respect the need for all four components to be present. We agree that this is likely one of the causes, perhaps the most important one; and we think that if this debate were to contribute to improving this situation, it will already have been worthwhile.
 
-Roberto, Mongeau and Liu continue to question our claim that:
+Roberto, Mongeau and Liu (2018) continue to question our claim that:
 
 > Fear appeals will in the majority of situations not change risk behavior in the desired direction, as for most behaviors targeted in health promotion interventions, self-efficacy is not high.
 
@@ -606,7 +606,7 @@ However, we would argue that self-efficacy is only high in minority of situation
 
 In addition, the question is not whether fear appeals can work. Having some effect on behavior does not justify the use of fear appeals: the question is whether they are the most effective method. This, we believe, will rarely be the case.
 
-Nonetheless, we took the admonition of Roberto, Mongeau and Liu to heart, and in this rejoinder, attempt to work towards consensus rather than adding to the confusion.
+Nonetheless, we took the admonition of Roberto, Mongeau and Liu (2018) to heart, and in this rejoinder, attempt to work towards consensus rather than adding to the confusion.
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -617,13 +617,13 @@ The commentary by White & Albarracin discusses the results of novel analyses tha
 
 In their first analysis, they address exactly one of the problems in meta-analytic approaches that we have discussed in our original paper and elsewhere in this rejoinder: the validity of the operationalisation of the independent variable. White & Albarracin report the aggregated effect sizes found for behavior when threatening communications were compared to a passive control group. They find a 95% confidence interval of [0.207; 0.506], an effect that decreased but remained positive when the behavior was not a one-shot behavior (95% CI of [0.114; 0.452]).
 
-As White & Albarracin conclude,
+As White & Albarracin (2018) conclude,
 
 > when fear appeals are compared with no message or with a message with a lower fear level, the answer to the question of efficacy is a resounding “yes, they work!”
 
 ## A resounding "Yes, they work!"
 
-We retain some reservations which we will explain below, but first let us assume for the sake of the argument that we agree: this would, however, lead us to reiterate the point partly made by White and Albarracin as well: 
+We retain some reservations which we will explain below, but first let us assume for the sake of the argument that we agree: this would, however, lead us to reiterate the point partly made by White and Albarracin (2018) as well: 
 
 > However, our team has also shown that fear is less effective than more sophisticated and expensive interventions such as those designed to train new behavioral skills among recipients, although they are rarely less effective than no intervention (c.f. Earl & Albarracín, 2007; for other emotional appeals, see Earl, Nisson, & Albarracín, 2015).
 
@@ -635,13 +635,15 @@ Therefore, the question of efficacy so resoundingly answered by White and Albarr
 
 Our reservations are based on two points. The first is that eyeballing Figure 1 suggests to us that there may be publication bias; there appears to be a positive association between the effect on behavior and the variance of that effect size. The most well-known parameter determining effect size variance (the width of its sampling distribution) is sample size (more data points yield tighter sampling distributions with lower variance), but better designs and higher quality operationalisations can also decrease error variance and thereby decrease effect size variance. In general, better studies yield more accurate effect size estimates, and therefore those studies receive bigger weights in meta-regressions. If effect size variance is positively associated to effect size, that implies that studies that among the included studies, those studies finding the smallest effects are the highest-quality studies; a scenario implying that the studies finding the largest effects may represent, for example, Type 1 errors. Unfortunately, they did not fully disclose (Peters, Abraham & Crutzen, 2012) their data and analysis scripts. 
 
-The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated (also see the commentary by Roberto, Mongeau & Liu: A (Re)defining moment for fear appeals). Failing such a design, validity of the test of fear appeals is jeopardized. Conclusions from literature syntheses that disregard these dynamics suffer from the same diminished validity, and so urge considerable caution. At least enough caution to warrant resounding conclusions remature.
+The second reservation concerns the risks inherent in meta-analyses to answer a research question that was not the research question of the included studies. The problem is that it is easy to overlook methodological and theoretical conditions that need to be met for data to be able to contribute to answering specific research questions. For example, in this specific example (also see Kok et al., 2018), a study to test the Extended Parallel Proces Model and its predicted additive and moderating effects requires a design where all four variables are manipulated (also see Roberto, Mongeau & Liu, 2018). Failing such a design, validity of the test of fear appeals is jeopardized. Conclusions from literature syntheses that disregard these dynamics suffer from the same diminished validity, and so urge considerable caution. At least enough caution to warrant resounding conclusions remature.
 
 ## Are truly fear-inducing appeals associated with positive behavior change? {.tabset}
 
 ### Text
 
-It appears from their Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
+It appears from White and Albarracin's(2018) Figure 2 that there is an inverse relationship between effect size variance (often reflecting sample size, but can also reflect operationalisation and design quality) and the effect on fear. Assuming the size of each circle reflects weight in the random effects meta-regression, the studies with the largest weight (and thus, the lowest effect size variance, which often means they had the largest sample size or highest methodological quality) achieve the smallest effect on fear. However, these high-quality studies achieve varying effects on behavior, whereas the lowest quality studies have both the highest effects on fear and on behavior.
+
+The effect sizes found in low quality studies (e.g. underpowered studies) derive from wider sampling distributions, which means that the probability of finding large effects is larger, even when no effect exists in the population. At the same time, low quality studies often do not get published until they obtain large effects. For example, such large effects are often (erroneously) used to justify under-powered designs, as a priori power analyses for large effects yield small required sample sizes. Low quality (e.g. underpowered) studies are therefore particularly circumspect.
 
 At the same time, these lowest quality studies appear mostly responsible for the observed association between fear and behavior change. In fact, when subjecting their plot to the `digitize` R package to extract each data points' fear and behavior effect size estmiates, and recomputing the regression without those two smallest studies, the regression coefficient is no longer distinguishable from zero.
 
@@ -692,7 +694,7 @@ regr(d.behavior ~ d.fear, whiteAlbarracinDat[1:8, ], plot=TRUE);
 
 ## Should policies continue to employ fear appeals because they appear to induce positive effects?
 
-White and Albarracin conclude:
+White and Albarracin (2018) conclude:
 
 > [...] that fear appeals research should continue and that policies should continue to employ fear appeals because, at the population level, they appear to induce positive effects for a wide variety of behaviors.
 
@@ -764,7 +766,7 @@ Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black 
 
 Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. *Journal of Studies on Alcohol, 43*, 802–811.
 
-Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. *European Health Psychologist, 16*, 156–170.
+Kok, G. (2014). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p156/8">A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.</a> *European Health Psychologist, 16*, 156–170.
 
 Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behavior change methods: an Intervention Mapping approach. *Health Psychology Review, 10*, 297–312. doi: <a href="https://doi.org/10.1080/17437199.2015.1077155">10.1080/17437199.2015.1077155</a>
 
@@ -786,7 +788,9 @@ Ntoumanis, N., & Sedikides, C. (2018). Holding on (to the goal) or letting it go
 
 Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. *Health Psychology Review, 10*, 245–250. doi: <a href="https://doi.org/https://doi.org/10.1080/17437199.2016.1190291">https://doi.org/10.1080/17437199.2016.1190291</a>
 
-Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). Full disclosure: doing behavioural science necessitates sharing. *The European Health Psychologist, 14*, 77–84.
+Peters, G.-J. Y. (2014). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p142">A practical guide to effective behavior change: how to identify what to change in the first place.</a> *European Health Psychologist, 16*, 142–155.
+
+Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). <a href="https://ehps.net/ehp/index.php/contents/article/view/777/ehp.v14.i4.p77">Full disclosure: doing behavioural science necessitates sharing.</a> *The European Health Psychologist, 14*, 77–84.
 
 Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. *Health Psychology Review, 9*, 1–14. doi: <a href="https://doi.org/10.1080/17437199.2013.848409">10.1080/17437199.2013.848409</a>
 
@@ -794,7 +798,7 @@ Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Noth
 
 Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*(3)*, 265–268. doi: <a href="https://doi.org/10.1080/17437199.2016.1190658">10.1080/17437199.2016.1190658</a>
 
-Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: <a href="https://doi.org/10.1002/ijop.12000  ">10.1002/ijop.12000  </a>
+Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: <a href="https://doi.org/10.1002/ijop.12000">10.1002/ijop.12000  </a>
 
 Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. *PsyArXiv*, retrieved from https://psyarxiv.com/vehtx
 
@@ -802,13 +806,13 @@ Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath
 
 Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445546">10.1080/17437199.2018.1445546</a>
 
-Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. *Journal of Personality and Social Psychology, 34*(1)*, 54–61.
+Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. *Journal of Personality and Social Psychology, 34*, 54–61.
 
-Roe, R. A. (2012). What is wrong with mediators and moderators? *The European Health Psychologist, 14*(1)*, 4–10.
+Roe, R. A. (2012). <a href="https://ehps.net/ehp/index.php/contents/article/view/ehp.v14.i1.p4/31">What is wrong with mediators and moderators?</a> *The European Health Psychologist, 14*, 4–10.
 
-Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. *Journal of Social Service Research, 21*(4)*, 37–59. doi: <a href="https://doi.org/10.1300/J079v21n04_02">10.1300/J079v21n04_02</a>
+Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. *Journal of Social Service Research, 21*, 37–59. doi: <a href="https://doi.org/10.1300/J079v21n04_02">10.1300/J079v21n04_02</a>
 
-Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*(6)*, 613–630. doi: <a href="https://doi.org/10.1080/08870440108405863">10.1080/08870440108405863</a>
+Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*, 613–630. doi: <a href="https://doi.org/10.1080/08870440108405863">10.1080/08870440108405863</a>
 
 Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*(9)*, 503–518. doi: <a href="https://doi.org/10.1111/spc3.12265">10.1111/spc3.12265</a>
 

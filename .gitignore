@@ -37,6 +37,7 @@ vignettes/*.pdf
 *.doc
 *.docx
 *.pdf
+*.tmp
 
 # Include Figure 1
 !consensus-on-fear-appeals.pdf
