@@ -704,14 +704,12 @@ caption2 <- paste0(figCountr(),
 
 ```
 
-```{r white-albarracin-digitize-plot1, fig.cap=caption1, results='asis'}
-userfriendlyscience:::pander.regr(whiteAlbarracinOriginalRegr);
-whiteAlbarracinOriginalRegr$output$plot;
+```{r white-albarracin-digitize-plot1, fig.cap=caption1}
+print(whiteAlbarracinOriginalRegr);
 ```
 
-```{r white-albarracin-digitize-plot2, fig.cap=caption2, results='asis'}
-userfriendlyscience:::pander.regr(whiteAlbarracinNewRegr);
-whiteAlbarracinNewRegr$output$plot;
+```{r white-albarracin-digitize-plot2, fig.cap=caption2}
+print(whiteAlbarracinNewRegr);
 ```
 
 ## Should policies continue to employ fear appeals because they appear to induce positive effects?
