@@ -431,17 +431,17 @@ Malouff (2018) also remarks on the external validity of experiments:
 
 > Experiments that have ideal internal validity due to the use of an experimental research method may have weak or no external validity and thus limit generalizability to the general population. No one study is likely to have both ideal internal validity and ideal external validity.
 
-We strongly agree especially with his latter statement. We also agree with the first, but would add that degree of external validity is orthogonal to whether a study is observational or experimental. Indeed, experiments may have low external validity; so may observational studies. Experiments may also have low internal validity (for example, we would argue that fear appeal experiments operationalising intention using a questionnaire so, see [The validity of self-reported intention as operationalisation of intention]); so may observational studies.
+We strongly agree especially with his latter statement (see also [Effects of campaign diffusion and effects]). We also agree with the first, but would add that degree of external validity is orthogonal to whether a study is observational or experimental. Indeed, experiments may have low external validity; so may observational studies. Experiments may also have low internal validity (for example, we would argue that fear appeal experiments operationalising intention using a questionnaire do, see [The validity of self-reported intention as operationalisation of intention]); so may observational studies.
 
-However, experiments do not *as a rule* have low external validity. We agree with Malouff's observation that many psychology experiments in the published literature sampled from psychology students, and would add that this is also true for many observational studies in the published psychology literature. This is, however, not a characteristic of the experimental method, and a weakness that one can remedy when one designs an experiment to test the effectiveness of a behavior change intervention. In fact, to avoid counterproductive effects, it is generally advisable to pretest any intervention (Whittingham, Ruiter, Bolier, Lemmers, van Hasselt & Kok, 2009). Had this been done for warning labels, perhaps we would not have had this debate in the first place.
+However, experiments do not *as a rule* have low external validity. We agree with Malouff's (2018) observation that many psychology experiments in the published literature sampled from psychology students, and would add that this is also true for many observational studies in the published psychology literature. This is, however, not a characteristic of the experimental method, and a weakness that one can remedy when one designs an experiment to test the effectiveness of a behavior change intervention. In fact, to avoid counterproductive effects, it is generally advisable to pretest any intervention (Whittingham, Ruiter, Bolier, Lemmers, van Hasselt & Kok, 2009). Had this been done for warning labels, perhaps we would not have had this debate in the first place.
 
 ## Introspection as evidence
 
-Malouff argues that one's own impressions of why might work for behavior change are indicative for what works. This is an example of the intuitive nature of threatening communication. However, unfortunately, introspection is no reliable method to obtain information about human psychology (e.g. Wilson & Dunn, 2004; Wilson & Bar-Anan, 2008). This is not to say that observation as a method has no value: it just cannot be relied on in introspection. We need systematic approaches to gathering data, as argues before, preferably using experimental designs if we are interested in causality.
+Malouff (2018) argues that one's own impressions of why might work for behavior change are indicative for what works. This is an example of the intuitive nature of threatening communication. However, unfortunately, introspection is no reliable method to obtain information about human psychology (e.g. Wilson & Dunn, 2004; Wilson & Bar-Anan, 2008). This is not to say that observation as a method has no value: it just cannot be relied on in introspection. We need systematic approaches to gathering data, as argues before, preferably using experimental designs if we are interested in causality.
 
 ## Smokers' low self-efficacy
 
-Malouff's second point addresses our argument that smokers have low self-efficacy. Specifically, Malouff argues:
+Malouff's (2018) second point addresses our argument that smokers have low self-efficacy. Specifically, Malouff (2018) argues:
 
 > Smokers who quit permanently typically make many attempts before they succeed (Chaiton et al., 2016). These statistics suggest that many smokers have self-efficacy about being able to quit.
 
@@ -468,11 +468,11 @@ Nierdeppe and Kemp respond by arguing that our conclusion, that threatening comm
 
 ## Effects of campaign diffusion and effects
 
-Niederdeppe & Kemp argue that:
+Niederdeppe & Kemp (2018) argue that:
 
 > In many cases, randomized trials may not offer the highest evidentiary standard for achieving this goal.
 
-Unfortunately, they do not specify under which conditions the safeguards against confounding and bias as provided by randomization and  blinding are superseded by other virtues. They do explain that communication is a complex and diffuse social process. We completely agree, and would add that this complexity is a severe underestimate of the complexity of behavior change. Communication is, after all, only one aspect of successful behavior change, and the other aspects are no simpler (e.g. conducting needs assessments, mapping the determinants of behavior; using psychological theory and evidence to select methods for behavior change; involving target population members, implementers, stakeholders, and other key individuals while at the same time adequately confining their involvement, et cetera).
+Unfortunately, they do not specify under which conditions the safeguards against confounding and bias as provided by randomization and  blinding are superseded by other virtues. They do explain that communication is a complex and diffuse social process. We completely agree, and would add that this complexity is a severe underestimate of the complexity of behavior change. Communication is, after all, only one aspect of successful behavior change, and the other aspects are no simpler (e.g. conducting needs assessments, mapping the determinants of behavior; using psychological theory and evidence to select methods for behavior change; involving target population members, implementers, stakeholders, and other key individuals while at the same time adequately confining their involvement, et cetera; see Bartholomew Eldredge et al., 2016).
 
 We also agree that this complexity does not lend itself well to tightly controlled randomized designs. Indeed, studying this complex matter is in itself an even more complex endeavour. We are not clear why this should mean that the logical and methodological realities that render non-experimental designs so ill-suited for causal inference are irrelevant.
 
@@ -480,7 +480,7 @@ External validity is as important as internal validity, but not more important. 
 
 Studies of real-world applications of behavior change interventions do not conveniently also provide the data required to gain understanding of the intricacies of behavior change methods and the conditions under which they work. Gaining an understanding of when exactly we should use which behavior change method requires an iterative protocol for evidence base accumulation (IPEBA; Peters, de Bruin & Crutzen, 2015).
 
-We do not argue that studies with less control have not value; instead, we argue that like studies with more control, they have their place in the arsenal of a behavior change scientist. No single study can achieve both optimal internal and optimal external validity. When seeking to answer questions relating to the specific mechanics of behavior change (or more broadly, psychology), one requires tightly controlled studies; when seeking to answer questions relating to the effectivenss of full-blown behavior change interventions (ideally, systematically designed based on knowledge on the specific mechanics of behavior change), one requires evaluations in more 'messy' real-word settings.
+We do not argue that studies with less control have no value; instead, we argue that like studies with more control, they have their place in the arsenal of a behavior change scientist. No single study can achieve both optimal internal and optimal external validity (see also [Internal versus external validity]). When seeking to answer questions relating to the specific mechanics of behavior change (or more broadly, psychology), one requires tightly controlled studies; when seeking to answer questions relating to the effectivenss of full-blown behavior change interventions (ideally, systematically designed, based on knowledge of the specific mechanics of behavior change), one requires evaluations in more 'messy' real-word settings.
 
 Niederdeppe & Kemp also argue that:
 
@@ -488,7 +488,7 @@ Niederdeppe & Kemp also argue that:
 
 While we agree with this first of these three statements, we are not convinced of (b) and (c). Only a few methods for behavior change leverage social networks, and only a few utilize institutional changes. In fact, proper application of many effective methods for behavior change (e.g. guided practice, modeling, tailoring, agenda setting) are not compatible with diffusing through social networks. While environmental changes can usefully support or even enable behavior change, positing that these are crucial to behavior change in general seems at odds with much health psychology theory and evidence. For example, Crutzen and Peters (2018) argue that all behavior change, even that occurring through the environment, must necessarily entail a change in the individual; Kwasnicka, Dombrowski, White and Sniehotta (2016) explain how environmental changes can relieve self-regulatory requirements in behavior maintenace; and McEachan, Conner, Taylor and Lawton (2011) show that up to one quarter of the variance in future behavior can successfully be predicted using only the determinants from one theory, all of which psychological.
 
-Perhaps we misunderstood, and Niederdeppe & Kemp meant to argue that specifically for threatening communication, subsequent discussion of the stimulus, as well as realisation of environmental changes, are parameters for effectiveness of the behavior change method (see e.g. Kok, 2014; and Peters & Kok, 2016). Although the Extended Parallel Process Model lists a number of such parameters of effectivenss (e.g. the intervention must either successfully increase efficacy, or target a population already high in efficacy), it does not mention that discussion of the threatening stimulus is required. In fact, in its discussion of the processing of the threat, dialogue with other individuals does not play a role at all. We know of no theory positing that processing of threatening stimuli first requires dialogue or environmental change; nor do we know of any evidence where threat processing was compared for indivduals who did versus did not discuss the threat, or individuals who remained in the same environment versus individuals in adapted environments.
+Perhaps we misunderstood, and Niederdeppe & Kemp (2018) meant to argue that specifically for threatening communication, subsequent discussion of the stimulus, as well as realisation of environmental changes, are parameters for effectiveness of the behavior change method (see e.g. Kok, 2014; and Peters & Kok, 2016). Although the Extended Parallel Process Model lists a number of such parameters of effectivenss (e.g. the intervention must either successfully increase efficacy, or target a population already high in efficacy), it does not mention that discussion of the threatening stimulus is required. In fact, in its discussion of the processing of the threat, dialogue with other individuals does not play a role at all. We know of no theory positing that processing of threatening stimuli first requires dialogue or environmental change; nor do we know of any evidence where threat processing was compared for indivduals who did versus did not discuss the threat, or individuals who remained in the same environment versus individuals in adapted environments.
 
 ## Individuals versus population levels
 
@@ -504,16 +504,16 @@ Our point is that at best, the effects that one can expect from threatening comm
 
 ## Warning labels as a method to target other determinants
 
-Niederdeppe and Kemp also make the point made by Brewer, Hall and Noar that perhaps, threatening communication targets other determinants than fear or threat. We therefore refer the reader back to section [Mediators (determinants) targeted by warning labels].
+Niederdeppe and Kemp (2018) also make the point made by Brewer, Hall and Noar (2018) that perhaps, threatening communication targets other determinants than fear or threat. We therefore refer the reader back to sections [Mediators (determinants) targeted by warning labels] and [The importance of risk perception for behavior].
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
 # Peters & Shoots-Reinhard: Don’t throw the baby out with the bath water
 
-Ellen Peters and Brittany Shoots-Reinhard argue that the baby should not be thrown out with the bath water. We agree, but add that although this particular baby should not be thrown away, it should be avoided whenever possible, only to be used with great reluctance.
+Peters and Shoots-Reinhard (2018) argue that the baby should not be thrown out with the bath water. We agree, but add that although this particular baby should not be thrown away, it should be avoided whenever possible, only to be used with great reluctance.
 
-Peters' and Shoots-Reinhard's argument is based on their statement that 
+Peters' and Shoots-Reinhard's (2018) argument is based on their statement that 
 
 > a strong base of converging evidence supports effectiveness of pictorial warning labels, with similar results shown for improving knowledge and encouraging smoking cessation (through either quit intentions or behavior change) in controlled experiments including recent clinical trials and large international observational studies (e.g., Brewer et al., 2016; Evans et al., 2015; Noar et al., 2016a, 2016b; Romer et al., 2018).
 
@@ -521,13 +521,13 @@ We have discussed these reviews and the evidence they can provide by virtue of t
 
 ## Using behavioral intentions to study the effect of threatening communication
 
-Peters and Shoots-Reinhard then argue that intention is a good predictor of behavior. We mostly agree (but would like to add an important nuance that is relevant regarding smoking).
+Peters and Shoots-Reinhard (2018) then argue that intention is a good predictor of behavior. We mostly agree (but would like to add an important nuance that is relevant regarding smoking).
 
-But before going into the predictive value of intention (and therefore, the usefulness of measuring intention instead of behavior when studying behavior change interventions), let us refer back to section [The validity of self-reported intention as operationalisation of intention], where we explained why it is unwise to trust the validity of self-reports as operationalisations of intention when studying threat.
+Before going into the predictive value of intention (and therefore, the usefulness of measuring intention instead of behavior when studying behavior change interventions), let us refer back to section [The validity of self-reported intention as operationalisation of intention], where we explained why it is unwise to trust the validity of self-reports as operationalisations of intention when studying threat.
 
-Peters and Shoots-Reinhard contest that reporting high intentions is a fear control process. They discount two studies we cited that showed that threatening communications yielded higher self-reported intentions, yet no effects on behavior. It is true that these studies are underpowered. At the same time, otherwise they are methodologically adequate, and they represent the sum total of evidence in this respect. To our knowledge, there exist no studies where a fear manipulation yielded increases in intention (or, for that matter, attitude or risk perception) that *did* translate to behavior change. On the other hand, there is the body of evidence on which the original formulation of the Extended Parallel Process Model was based (e.g. Kleinot & Rogers, 1982; Rogers & Mewborn, 1976).
+Peters and Shoots-Reinhard (2018) contest that reporting high intentions is a fear control process. They discount two studies we cited that showed that threatening communications yielded higher self-reported intentions, yet no effects on behavior. It is true that these studies are underpowered. At the same time, otherwise they are methodologically adequate, and they represent the sum total of evidence in this respect. To our knowledge, there exist no studies where a fear manipulation yielded increases in intention (or, for that matter, attitude or risk perception) that *did* translate to behavior change. On the other hand, there is the body of evidence on which the original formulation of the Extended Parallel Process Model was based (e.g. Kleinot & Rogers, 1982; Rogers & Mewborn, 1976).
 
-Peters and Shoots-Reinhard then point out that it is useful to explore the conditions under which intention predicts behavior, in other words, the intention-behavior gap (Sheeran & Webb, 2016). We agree that looking at moderators of this association is useful. 
+Peters and Shoots-Reinhard (2018) then point out that it is useful to explore the conditions under which intention predicts behavior, in other words, the intention-behavior gap (Sheeran & Webb, 2016). We agree that looking at moderators of this association is useful. 
 
 Thus, while it may be true that both studies we cited represent Type-1 errors, that question begs resolution through research.
 
@@ -535,7 +535,7 @@ As it stand, there seems to be sufficient reason to doubt the validity of self-r
 
 ## Affect as mediator
 
-Peters and Shoots-Reinhard then argue that our focus on behavior made us overlook that emotional reactions can influence judgmenets and decisions about smoking (also see [Mediators (determinants) targeted by warning labels]). We are not sure whether their departure from this focus on behavior implies that these emotional reactions are not eventually expected to impact behavior. If they are not, it is not clear how it can be justified to 'spend' the scarce resource of a health communication opportunity (e.g. on tobacco packaging) to elicit emotional reactions if the goal of such elicitation is not to help people cease smoking, or refrain from starting smoking. Therefore, we assume that these emotional reactions are expected to eventually impact behavior.
+Peters and Shoots-Reinhard (2018) then argue that our focus on behavior made us overlook that emotional reactions can influence judgmenets and decisions about smoking (also see [Mediators (determinants) targeted by warning labels]). We are not sure whether their departure from this focus on behavior implies that these emotional reactions are not eventually expected to impact behavior. If they are not, it is not clear how it can be justified to 'spend' the scarce resource of a health communication opportunity (e.g. on tobacco packaging) to elicit emotional reactions if the goal of such elicitation is not to help people cease smoking, or refrain from starting smoking. Therefore, we assume that these emotional reactions are expected to eventually impact behavior.
 
 In that case, where emotional reactions are means to change behavior, we are not sure why a focus on behavior should be abandoned (or is even undesirable or unwise in any way). Showing effects on theorized mediators is of little use if it is not possible to show effects on the actual target variable.
 
@@ -551,9 +551,9 @@ Their sentence continues with:
 
 > smokers’ knowledge of tobacco’s health risks is low, and most adults can only name between one and four of the many smoking-related diseases (Evans et al., 2015; Smith et al., 2010).
 
-Here, the conviction is expressed that knowing and being able to list all relevant diseases is a requirement, or at least a strong facilitator, of the target behavior. However, this assumption of both inconsistent with common sense and, as far as we know, unsupported by evidence. It is inconsistent with common sense because it is unlikely that people who exercise regularly can name more diseases prevented by exercise than people who do not (if you correct for education level); that people who consistently use condoms can name more STI's than people who do not; or that people who don't drink alcohol can name more diseases causes by alcohol consumption than people who do not. In other words: it does not seem plausible that simply being able to list many diseases is predictive of behavior. This, of course, could be explained by the poor predictive value of risk perception.
+Here, the conviction is expressed that knowing and being able to list all relevant diseases is a requirement, or at least a strong facilitator, of the target behavior. However, in our view, this assumption is both inconsistent with common sense and, as far as we know, unsupported by evidence. It is inconsistent with common sense because it is unlikely that people who exercise regularly can name more diseases prevented by exercise than people who do not (after correction for education level); that people who consistently use condoms can name more sexually transmitted infections than people who do not; or that people who do not drink alcohol can name more diseases caused by alcohol consumption than people who do not. In other words: it does not seem plausible that simply being able to list many diseases is predictive of behavior. This, of course, could be explained by the poor predictive value of risk perception.
 
-But, this argument could easily be countered by the observation that no evidence exists to support this statement; it remains purely theoretical. And in the absence of such evidence, subjective utility theories could be argued to be plausible models as well [^1]. Of course, in the absence of such evidence, one has to resort to Occams razor, and as a result, the simplest possible model, which is one where no association exists between number of diseases listed and the health behavior.
+But, this argument could easily be countered by the observation that no evidence exists to support this statement; it remains purely theoretical. And in the absence of such evidence, subjective utility theories (e.g., holding that the more diseases one knows, the less likely one is to engage in a risk behavior) could be argued to be plausible models as well [^1]. Of course, in the absence of such evidence, one has to resort to Occams razor, and as a result, the simplest possible model, which is one where no association exists between number of diseases listed and the health behavior.
 
 [^1]: Well, perhaps not subjective utility models specifically, given that such models assuming that humans are rational actors have been widely discredited by now.
 
@@ -726,99 +726,99 @@ It is time to stop acting as if threatening communications represent the sum tot
 
 # References
 
-- Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. Health Psychology : Official Journal of the Division of Health Psychology, American Psychological Association, 27(3), 379–87. http://doi.org/10.1037/0278-6133.27.3.379
+- Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–87. doi: <a href="https://doi.org/10.1037/0278-6133.27.3.379">10.1037/0278-6133.27.3.379</a>
 
-- Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A process for developing theory- and evidence-based health education programs. Health Education and Behavior, 25(5), 545–563. http://doi.org/10.1177/109019819802500502
+- Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A process for developing theory- and evidence-based health education programs. *Health Education and Behavior, 25*, 545–563. doi: <a href="https://doi.org/10.1177/109019819802500502">10.1177/109019819802500502</a>
 
-- Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. (2016). Planning Health Promotion Programs: An Intervention Mapping Approach (4th ed.). Hoboken, NJ, CA: Wiley.
+- Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. (2016). *Planning Health Promotion Programs: An Intervention Mapping Approach* (4th ed.). Hoboken, NJ, CA: Wiley.
 
-- Bartlett, Y. K., Sheeran, P., & Hawley, M. S. (2014). Effective behaviour change techniques in smoking cessation interventions for people with chronic obstructive pulmonary disease: A meta-analysis. British Journal of Health Psychology, 19(1), 181–203. http://doi.org/10.1111/bjhp.12071
+- Bartlett, Y. K., Sheeran, P., & Hawley, M. S. (2014). Effective behaviour change techniques in smoking cessation interventions for people with chronic obstructive pulmonary disease: A meta-analysis. *British Journal of Health Psychology, 19*, 181–203. doi: <a href="https://doi.org/10.1111/bjhp.12071">10.1111/bjhp.12071</a>
 
-- Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al., Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445544
+- Brewer, N.T., Hall, M.G. & Noar, S.M. (2018) Pictorial cigarette pack warnings increase quitting: A comment on Kok et al. *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445544">10.1080/17437199.2018.1445544</a>
 
-- Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. JAMA Internal Medicine, 176(7), 905. http://doi.org/10.1001/jamainternmed.2016.2621
+- Brewer, N. T., Hall, M. G., Noar, S. M., Parada, H., Stein-Seroussi, A., Bach, L. E., … Ribisl, K. M. (2016). Effect of Pictorial Cigarette Pack Warnings on Changes in Smoking Behavior. *JAMA Internal Medicine, 176*, 905. doi: <a href="https://doi.org/10.1001/jamainternmed.2016.2621">10.1001/jamainternmed.2016.2621</a>
 
-- Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445545
+- Borland, R. (2018) Misinterpreting theory and ignoring evidence: fear appeals can actually work: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445545">10.1080/17437199.2018.1445545</a>
 
-- Buller, D., Borland, R., & Burgoon, M. (1998). Impact of behavioural intention on effectiveness of message features: Evidence from the family sun safety project. Human Communication Research, 24(3), 433-453. 
+- Buller, D., Borland, R., & Burgoon, M. (1998). Impact of behavioural intention on effectiveness of message features: Evidence from the family sun safety project. *Human Communication Research, 24*, 433-453. 
 
-- Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. Communications in Statistics: Simulation and Computation, 39(4), 860–864. http://doi.org/10.1080/03610911003650383
+- Chen, H., Cohen, P., & Chen, S. (2010). How big is a big odds ratio? Interpreting the magnitudes of odds ratios in epidemiological studies. *Communications in Statistics: Simulation and Computation, 39*, 860–864. doi: <a href="https://doi.org/10.1080/03610911003650383">10.1080/03610911003650383</a>
 
-- Crutzen, R., & Peters, G.-J. Y. G.-J. Y. (2017). Evolutionary learning processes as the foundation for behaviour change. Health Psychology Review, 0(0), 1–34. http://doi.org/10.1080/17437199.2017.1362569
+- Crutzen, R., & Peters, G.-J. Y. G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: <a href="https://doi.org/10.1080/17437199.2017.1362569">10.1080/17437199.2017.1362569</a>
 
-- Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Psychological Bulletin, 140(5), 1272–1280. http://doi.org/dx.doi.org/10.1037/a0037714
+- Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: <a href="https://doi.org/dx.doi.org/10.1037/a0037714">dx.doi.org/10.1037/a0037714</a>
 
-- Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. The ANNALS of the American Academy of Political and Social Science, 628(1), 200–208. https://doi.org/10.1177/0002716209351526
+- Green, D. P., Ha, S. E., & Bullock, J. G. (2010). Enough Already about “Black Box” Experiments: Studying Mediation Is More Difficult than Most Scholars Suppose. *The ANNALS of the American Academy of Political and Social Science, 628*, 200–208. doi: <a href="https://doi.org/10.1177/0002716209351526">10.1177/0002716209351526</a>
 
-- Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. Journal of Studies on Alcohol, 43(7), 802–811.
+- Kleinot, M. C., & Rogers, R. W. (1982). Identifying effective components of alcohol misuse prevention programs. *Journal of Studies on Alcohol, 43*, 802–811.
 
-- Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. European Health Psychologist, 16(5), 156–170.
+- Kok, G. (2014). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. *European Health Psychologist, 16*, 156–170.
 
-- Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Guy, S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behaviour change methods : an Intervention Mapping approach A taxonomy of behaviour change methods : an Intervention, 7199(March 2017). http://doi.org/10.1080/17437199.2015.1077155
+- Kok, G., Gottlieb, N. H., Peters, G. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., … Bartholomew, L. K. (2016). A taxonomy of behavior change methods: an Intervention Mapping approach. *Health Psychology Review, 10*, 297–312. doi: <a href="https://doi.org/10.1080/17437199.2015.1077155">10.1080/17437199.2015.1077155</a>
 
-- Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445541
+- Malouff, J. (2018) What constitutes evidence that fear appeals have positive effects on health behavior? Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445541">10.1080/17437199.2018.1445541</a>
 
-- Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health interventions: a systematic review. Journal of Epidemiology & Community Health, 1–8. http://doi.org/10.1136/jech-2016-208141
+- Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health interventions: a systematic review. *Journal of Epidemiology & Community Health, 71*, 827–834. doi: <a href="https://doi.org/10.1136/jech-2016-208141">10.1136/jech-2016-208141</a>
 
-- McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. Health Psychology Review, 5(2), 97–144. https://doi.org/10.1080/17437199.2010.521684
+- McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. *Health Psychology Review, 5*, 97–144. doi: <a href="https://doi.org/10.1080/17437199.2010.521684">10.1080/17437199.2010.521684</a>
 
-- Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine. http://doi.org/10.1007/s12160-013-9486-6
+- Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. *Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine.* doi: <a href="https://doi.org/10.1007/s12160-013-9486-6">10.1007/s12160-013-9486-6</a>
 
-- Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445543
+- Niederdeppe, J. & Kemp, D (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445543">10.1080/17437199.2018.1445543</a>
 
-- Ntoumanis, N., Healy, L. C., Sedikides, C., Smith, A. L., & Duda, J. L. (2014). Self-Regulatory Responses to Unattainable Goals: The Role of Goal Motives. Self and Identity, 13(5), 494–612. http://doi.org/10.1080/15298868.2014.889033
+- Ntoumanis, N., Healy, L. C., Sedikides, C., Smith, A. L., & Duda, J. L. (2014). Self-Regulatory Responses to Unattainable Goals: The Role of Goal Motives. *Self and Identity, 13*, 494–612. doi: <a href="https://doi.org/10.1080/15298868.2014.889033">10.1080/15298868.2014.889033</a>
 
-- Ntoumanis, N., & Sedikides, C. (2018). Holding on (to the goal) or letting it go and move on? A tripartite model of goal striving. Current Directions in Psychological Science. Retrieved from https://www.researchgate.net/publication/323676131_Holding_on_to_the_goal_or_letting_it_go_and_move_on_A_tripartite_model_of_goal_striving
+- Ntoumanis, N., & Sedikides, C. (2018). Holding on (to the goal) or letting it go and move on? A tripartite model of goal striving. *Current Directions in Psychological Science*. Retrieved from https://www.researchgate.net/publication/323676131_Holding_on_to_the_goal_or_letting_it_go_and_move_on_A_tripartite_model_of_goal_striving
 
-- Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. Health Psychology Review, 10(3), 245–250. http://doi.org/https://doi.org/10.1080/17437199.2016.1190291
+- Ogden, J. (2016). Celebrating variability and a call to limit systematisation: the example of the Behaviour Change Technique Taxonomy and the Behaviour Change Wheel. *Health Psychology Review, 10*, 245–250. doi: <a href="https://doi.org/https://doi.org/10.1080/17437199.2016.1190291">https://doi.org/10.1080/17437199.2016.1190291</a>
 
-- Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). Full disclosure: doing behavioural science necessitates sharing. The European Health Psychologist, 14, 77–84.
+- Peters, G.-J. Y., Abraham, C., & Crutzen, R. (2012). Full disclosure: doing behavioural science necessitates sharing. *The European Health Psychologist, 14*, 77–84.
 
-- Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. Health Psychology Review, 9(1), 1–14. http://doi.org/10.1080/17437199.2013.848409
+- Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as simple as possible, but no simpler: towards a protocol for accumulating evidence regarding the active content of health behaviour change interventions. *Health Psychology Review, 9*, 1–14. doi: <a href="https://doi.org/10.1080/17437199.2013.848409">10.1080/17437199.2013.848409</a>
 
-- Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Nothing can help health psychology progress. Health Psychology Review, 11(2), 103–121. http://doi.org/10.1080/17437199.2017.1284015
+- Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Nothing can help health psychology progress. *Health Psychology Review, 11*, 103–121. doi: <a href="https://doi.org/10.1080/17437199.2017.1284015">10.1080/17437199.2017.1284015</a>
 
-- Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). Health Psychology Review, 10(3), 265–268. https://doi.org/10.1080/17437199.2016.1190658
+- Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*(3)*, 265–268. doi: <a href="https://doi.org/10.1080/17437199.2016.1190658">10.1080/17437199.2016.1190658</a>
 
-- Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. International Journal of Psychology, 49 (2), 71-79. http://doi.org/10.1002/ijop.12000  
+- Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: <a href="https://doi.org/10.1002/ijop.12000  ">10.1002/ijop.12000  </a>
 
-- Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. Retrieved from http://osf.io/preprints/psyarxiv/vehtx
+- Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. *PsyArXiv*, retrieved from https://psyarxiv.com/vehtx
 
-- Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445542
+- Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445542">10.1080/17437199.2018.1445542</a>
 
-- Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018), Health Psychology Review, https://doi.org/10.1080/17437199.2018.1445546
+- Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: <a href="https://doi.org/10.1080/17437199.2018.1445546">10.1080/17437199.2018.1445546</a>
 
-- Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. Journal of Personality and Social Psychology, 34(1), 54–61.
+- Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. *Journal of Personality and Social Psychology, 34*(1)*, 54–61.
 
-- Roe, R. A. (2012). What is wrong with mediators and moderators? The European Health Psychologist, 14(1), 4–10.
+- Roe, R. A. (2012). What is wrong with mediators and moderators? *The European Health Psychologist, 14*(1)*, 4–10.
 
-- Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. Journal of Social Service Research, 21(4), 37–59. https://doi.org/10.1300/J079v21n04_02
+- Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and effect size. *Journal of Social Service Research, 21*(4)*, 37–59. doi: <a href="https://doi.org/10.1300/J079v21n04_02">10.1300/J079v21n04_02</a>
 
-- Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. Psychology & Health, 16(6), 613–630. http://doi.org/10.1080/08870440108405863
+- Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*(6)*, 613–630. doi: <a href="https://doi.org/10.1080/08870440108405863">10.1080/08870440108405863</a>
 
-- Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. Social and Personality Psychology Compass, 10(9), 503–518. http://doi.org/10.1111/spc3.12265
+- Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*(9)*, 503–518. doi: <a href="https://doi.org/10.1111/spc3.12265">10.1111/spc3.12265</a>
 
-- Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. Cognition, 124(2), 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
+- Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. *Cognition, 124*, 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
 
-- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–66. http://doi.org/10.1177/0956797611417632
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. *Psychological Science, 22*, 1359–66. doi: <a href="https://doi.org/10.1177/0956797611417632">10.1177/0956797611417632</a>
 
-- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. SSRN Electronic Journal, 1–4. http://doi.org/10.2139/ssrn.2160588
+- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. *SSRN Electronic Journal*, 1–4. doi: <a href="https://doi.org/10.2139/ssrn.2160588">10.2139/ssrn.2160588</a>
 
-- Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. Journal of Personality and Social Psychology, 89(6), 845–851. https://doi.org/10.1037/0022-3514.89.6.845
+- Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. *Journal of Personality and Social Psychology, 89*, 845–851. doi: <a href="https://doi.org/10.1037/0022-3514.89.6.845">10.1037/0022-3514.89.6.845</a>
 
-- ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. BMC Public Health, 12:1011. https://doi.org/10.1186/1471-2458-12-1011
+- ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*. doi: <a href="https://doi.org/10.1186/1471-2458-12-1011">10.1186/1471-2458-12-1011</a>
 
-- Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. Health Psychology Review, 7(sup1), S104–S136. https://doi.org/10.1080/17437199.2011.606782
+- Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: <a href="https://doi.org/10.1080/17437199.2011.606782">10.1080/17437199.2011.606782</a>
 
-- Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin, 132(2), 249–268. http://doi.org/10.1037/0033-2909.132.2.249
+- Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. *Psychological Bulletin, 132*, 249–268. doi: <a href="https://doi.org/10.1037/0033-2909.132.2.249">10.1037/0033-2909.132.2.249</a>
 
-- White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). Health Psychology Review, 2018,  https://doi.org/10.1080/17437199.2018.1448292
+- White, B. & Albarracín, D. (2018) Investigating belief falsehood. Fear appeals do change behavior in experimental laboratory studies. A commentary on Kok et al. (2018). *Health Psychology Review, 12*,  doi: <a href="https://doi.org/10.1080/17437199.2018.1448292">10.1080/17437199.2018.1448292</a>
 
-- Whittingham, J. R. D., Ruiter, R. A. C., Bolier, L., Lemmers, L., Hasselt, N. V., & Kok, G. (2009). Avoiding Counterproductive Results: An Experimental Pretest of a Harm Reduction Intervention on Attitude Toward Party Drugs Among Users and Nonusers. Substance Use & Misuse, 44(4), 532–547. https://doi.org/10.1080/10826080802347685
+- Whittingham, J. R. D., Ruiter, R. A. C., Bolier, L., Lemmers, L., Hasselt, N. V., & Kok, G. (2009). Avoiding Counterproductive Results: An Experimental Pretest of a Harm Reduction Intervention on Attitude Toward Party Drugs Among Users and Nonusers. *Substance Use & Misuse, 44*, 532–547. doi: <a href="https://doi.org/10.1080/10826080802347685">10.1080/10826080802347685</a>
 
-- Wilson, T. D., & Bar-Anan, Y. (2008). Psychology: The unseen mind. Science, 321(5892), 1046–1047. http://doi.org/10.1126/science.1163029
+- Wilson, T. D., & Bar-Anan, Y. (2008). Psychology: The unseen mind. *Science, 321*, 1046–1047. doi: <a href="https://doi.org/10.1126/science.1163029">10.1126/science.1163029</a>
 
-- Wilson, T. D., & Dunn, E. W. (2004). Self-Knowledge: Its Limits, Value, and Potential for Improvement. Annual Review of Psychology, 55(1), 493–518. http://doi.org/10.1146/annurev.psych.55.090902.141954
+- Wilson, T. D., & Dunn, E. W. (2004). Self-Knowledge: Its Limits, Value, and Potential for Improvement. *Annual Review of Psychology, 55*, 493–518. doi: <a href="https://doi.org/10.1146/annurev.psych.55.090902.141954">10.1146/annurev.psych.55.090902.141954</a>
 
 
 # Footnotes
