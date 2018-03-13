@@ -41,3 +41,7 @@ vignettes/*.pdf
 
 # Include Figure 1
 !consensus-on-fear-appeals.pdf
+
+# Include knitted PDF
+!consensus_on_fear_appeals_-_rejoinder_to__false_belief_in_fear_appeals__debate.pdf
+

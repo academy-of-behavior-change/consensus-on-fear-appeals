@@ -1,5 +1,6 @@
 ---
 output:
+  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -14,9 +15,14 @@ require(userfriendlyscience);
 safeRequire('here');
 knitr::opts_chunk$set(echo=TRUE);
 knitr::opts_chunk$set(comment=NA);
+
 figCountr <- function(nr = getOption("fearAppealFigureCounter", 1)) {
   options(fearAppealFigureCounter = nr+1);
-  return(paste("Figure", nr));
+  if (knitr::opts_knit$get("rmarkdown.pandoc.to") == "latex") {
+    return("");
+  } else {
+    return(paste("Figure", nr, ": "));
+  };
 }
 ```
 
@@ -85,11 +91,11 @@ Although still very much a work in progress (see the [Open Science Framework rep
 
 So far, we extracted the most data for studies into smoking initiation. When meta-analysing the associations of determinants to smoking initiation (for behavior outcomes only), the following picture emerges (literally):
 
-![`r figCountr();`: The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png)
+![`r figCountr();`The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png)
 
 Less studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. Here, the following picture emerges:
 
-![`r figCountr();`: The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png)
+![`r figCountr();`The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png)
 
 Overall, the conclusion is that targeting risk perception does not seem an obvious choice. On the basis of these results, one would choose to target subjective and descriptive norms to prevent smoking initiation, and self-efficacy to promote succesful cessation.
 
@@ -697,10 +703,10 @@ whiteAlbarracinNewRegr <-
        plot=TRUE);
 
 caption1 <- paste0(figCountr(),
-                   ': Reproduction of the original plot by White & Albarracin (2018).');
+                   'Reproduction of the original plot by White & Albarracin (2018).');
 
 caption2 <- paste0(figCountr(),
-                   ': Reproduction with the low-quality studies omitted.');
+                   'Reproduction with the low-quality studies omitted.');
 
 ```
 
