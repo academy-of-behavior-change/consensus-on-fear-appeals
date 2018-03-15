@@ -1,6 +1,5 @@
 ---
 output:
-  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -8,6 +7,7 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: false
+  pdf_document: default
 urlcolor: blue
 ---
 
@@ -305,7 +305,7 @@ This pattern (out of twenty tests, two show a negative effect, and two show a po
 
 > It was common enough in these cases to find significant effects, [...]
 
-And therefore, concluding
+After all, four out of twenty is hardly common, and if half those significances reflect negative effects, one could argue that those significant effects are hardly desirable. And therefore, concluding
 
 > [..] that they can be common enough to be important factors in behaviour change
 
