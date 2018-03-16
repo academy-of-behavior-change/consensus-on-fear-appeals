@@ -1,4 +1,6 @@
 ---
+geometry: "left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"
+urlcolor: blue
 output:
   html_document:
     code_folding: show
@@ -8,7 +10,6 @@ output:
       collapsed: true
       smooth_scroll: false
   pdf_document: default
-urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
@@ -21,6 +22,19 @@ knitr::opts_chunk$set(echo=TRUE);
 knitr::opts_chunk$set(comment=NA);
 
 rejoinderDOI <- "INSERT_REJOINDER_DOI_HERE";
+rejoinderDOI <- NULL;
+
+if (!is.null(rejoinderDOI)) {
+  rejoinderDOIrefbit <-
+    paste0("doi: [", rejoinderDOI,
+           "](https://doi.org/", rejoinderDOI, ")");
+  rejoinderDOIprettylink <-
+    paste0("[main text of the rejoinder]((https://doi.org/",
+           rejoinderDOI, ")");
+} else {
+  rejoinderDOIrefbit <- "";
+  rejoinderDOIprettylink <- "main text of the rejoinder";
+}
 
 figCountr <- function(nr = getOption("fearAppealFigureCounter", 1)) {
   options(fearAppealFigureCounter = nr+1);
@@ -42,7 +56,7 @@ Note that because this text is an integral part of the commentary, if you wish t
 
 <div style="margin-left: 2em; text-indent: -2em;">
 
-Peters, G.-J. Y., Ruiter, R. A. C., ten Hoor, G. A., Kessels, L. E., Kok, G. (2018) Towards Consensus on Fear Appeals: A rejoinder to the commentaries on Kok, Peters, Kessels, ten Hoor & Ruiter (2018). *Health Psychology Review, 12*. doi: [`r rejoinderDOI`](https://doi.org/`r rejoinderDOI`)
+Peters, G.-J. Y., Ruiter, R. A. C., ten Hoor, G. A., Kessels, L. E., Kok, G. (2018) Towards Consensus on Fear Appeals: A rejoinder to the commentaries on Kok, Peters, Kessels, ten Hoor & Ruiter (2018). *Health Psychology Review, 12*. `r rejoinderDOIrefbit`
 
 </div>
 
@@ -113,7 +127,7 @@ We aimed to pre-emptively counter each of these arguments as follows:
 
 1. It is indeed challenging to conduct experiments that have both high internal and high external validity when studying the effects of threatening communications in large-scale health promotion campaigns (such as warning labels). However, this degree of difficulty does not elevate observational evidence to the level where it affords causal conclusions.
 2. It is not *impossible* to conduct experiments that have both high internal validity and high external validity. For example, while randomizing participants to a condition where they have to smoke is unethical, such 'show stopping' obstacles don't exist in this case. The fact that something is expensive, hard or inconvenient should not mean we therefore refrain from doing it, or lower our evidential standards.
-3. If lower-quality evidence (e.g. observational studies) is not in agreement with higher-quality evidence (fundamental studies designed to establish how psychological processes work), the lower-quality evidence should not necessarily prevail, not even if there is a lot of that lower-quality evidence.
+3. If lower-quality evidence (e.g. observational studies) is not in agreement with higher-quality evidence (fundamental studies designed to establish how psychological processes work), the lower-quality evidence should not necessarily prevail, not even if there is a lot of that lower-quality evidence: if lower-quality evidence cannot be validated, bias is more likely in lower-quality evidence than in higher-quality evidence.
 4. In the case of threatening communication, self-reports of reasoned behavioral determinants such as attitude and  intention have low validity.
 
 <!--------------------------------------------------------------------->
@@ -121,9 +135,9 @@ We aimed to pre-emptively counter each of these arguments as follows:
 
 # Two preliminary points and studies to resolve them
 
-Academic debates should ideally culminate in a set of studies that can then be preregistered and conducted and replicated to answer the questions that remain unanswered. After all, disagreement will often only be possible because no appropriate empirical evidence exists to determine which of the competing hypotheses is most plausible.
+Academic debates should ideally culminate in a set of studies that can then be preregistered and conducted and replicated to answer the questions that remain unanswered. After all, disagreement will often only exist in situations where no appropriate empirical evidence exists to determine which of the competing hypotheses is most plausible.
 
-Therefore, we will try to identify these points of disagreement and aim to conduct studies to resolve them in a constructive manner. We have already started on a literature review, some results of which we will present below.
+Therefore, we will try to identify the points of disagreement and propose and conduct studies to resolve them in a constructive manner. We have already started on a literature review, some results of which we will present below.
 
 ## The importance of risk perception for behavior
 
@@ -145,7 +159,7 @@ Now, as we said, this project is still very much a work in progress. Other deter
 
 However, these preliminary results do clearly show that risk perception is just one of many determinants that can be targeted; and by no means an obvious 'default choice'. Targeting risk perception (or any determinant) requires justification -- and the justification should be based on a comparison with other potential intervention targets (i.e. other determinants), not on the simple fact that the association of risk perception to behavior is not completely absent.
 
-This systematic literature synthesis is one of three studies we believe can help achieve consensus, at least regarding whether threatening communication is the best choice to employ as health communication on tobacco packaging. The Open Science Framework project page for this project is at [https://osf.io/vs39h/](https://osf.io/vs39h/).
+This systematic literature synthes is is one of three studies we believe can help achieve consensus, at least regarding whether threatening communication is the best choice to employ as health communication on tobacco packaging. The Open Science Framework project page for this project is at [https://osf.io/vs39h/](https://osf.io/vs39h/). The other two studies will be discussed below.
 
 ## The validity of self-reported intention as operationalization of intention
 
@@ -376,7 +390,7 @@ Brewer, Hall & Noar (2018) start by reiterating how unhealthy smoking is, arguin
 
 > actions that can reduce cigarette smoking, by preventing initiation or helping people quit, are critically important.
 
-It is not clear why they open with this point. Of course, we are all in agreement. It may bear explicitation that their emphasis on this point may perhaps be misconstrued as implying that our argument (that fear appeals are generally to be avoided) is in some way based on the position that preventing smoking initiation or promoting cessation is insufficiently important. In fact, the opposite is true: exactly because we so strongly endorse the importance of preventing smoking initiation and promoting cessation, we wrote this paper. We try to promote replacing warning labels with health communications that are *more* effective at preventing smoking initiation and promoting cessation (see also Figure 1 in the [main text of the rejoinder](https://doi.org/`r rejoinderDOI`)).
+It is not clear why they open with this point. Of course, we are all in agreement. It may bear explicitation that their emphasis on this point may perhaps be misconstrued as implying that our argument (that fear appeals are generally to be avoided) is in some way based on the position that preventing smoking initiation or promoting cessation is insufficiently important. In fact, the opposite is true: exactly because we so strongly endorse the importance of preventing smoking initiation and promoting cessation, we wrote this paper. We try to promote replacing warning labels with health communications that are *more* effective at preventing smoking initiation and promoting cessation (see also Figure 1 in the `r rejoinderDOIprettylink`.
 
 ## The Brewer et al. (2016) RCT
 
@@ -608,7 +622,7 @@ Unfortunately, they do not specify under which conditions the safeguards against
 
 We also agree that this complexity does not lend itself well to tightly controlled randomized designs. Indeed, studying this complex matter is in itself an even more complex endeavour. We are not clear why this should mean that the logical and methodological realities that render non-experimental designs so ill-suited for causal inference are irrelevant.
 
-External validity is as important as internal validity, but not more important. With low internal validy, patterns observed in the sample cannot be assumed to be indicative for real-world dynamics, for example because associations that seem causal may be confounded.
+External validity is as important as internal validity, but not more important. With low internal validy, patterns observed in the sample cannot be assumed to be indicative for real-world dynamics, for example because associations that seem causal may be confounded. If observed patterns do not in fact reflect reality (low internal validity), then whether observations generalize to other contexts and beyond the sample (external validity) is not relevant. In other words, internal validity is a necessary condition for external validity.
 
 Studies of real-world applications of behavior change interventions do not conveniently also provide the data required to gain understanding of the intricacies of behavior change methods and the conditions under which they work. Gaining an understanding of when exactly we should use which behavior change method requires an iterative protocol for evidence base accumulation (IPEBA; Peters, de Bruin & Crutzen, 2015).
 
@@ -622,6 +636,8 @@ While we agree with this first of these three statements, we are not convinced t
 
 Perhaps we misunderstood, and Niederdeppe & Kemp (2018) meant to argue that specifically for threatening communication, subsequent discussion of the stimulus as well as realisation of environmental changes are both parameters for effectiveness of the behavior change method (see e.g. Kok, 2014; and Peters & Kok, 2016). Although the Extended Parallel Process Model lists a number of such parameters of effectiveness (e.g. the intervention must either successfully increase efficacy, or target a population already high in efficacy), it does not mention that discussion of the threatening stimulus is required. In fact, in its discussion of the processing of the threat, dialogue with other individuals does not play a role at all. We know of no theory positing that processing of threatening stimuli first requires dialogue or environmental change; nor do we know of any evidence where threat processing was compared for individuals who did versus did not discuss the threat, or individuals who remained in the same environment versus individuals in adapted environments.
 
+It is also possible that Niederdeppe & Kemp mean that mass communication will be most effective when message exposure leads to social norm as well as institutional changes. We agree that that is very likely. Still, but there is no theory- or evidence-based reason why fear appeals would effect such social norm or institutional changes. Changing social norms and institutional support can be realized by appropriate change methods that have been shown to be effective in targeting interpersonal, community and policy levels (see Kok et al., 2016, for an overview).
+
 ## Individuals versus population levels
 
 Niederdeppe and Kemp continue to point out the flaws in the literature on fear appeal effectiveness. We could not agree more: this remains a tragically understudied topic, especially given the popularity of this approach.
@@ -632,7 +648,7 @@ They then continue to cite a number of literature syntheses of non-randomized st
 
 We do not mean to ignore this literature. This literature indicates that, for example, textual and visual stimuli have different effects on attitude, intention, and behavior. Our point is not that threatening communication can never, under any circumstance, have an effect on behavior.
 
-Our point is that at best, the effects that one can expect from threatening communication is inferior to the effects one can expect from health communication that is designed to target the most important determinants of behavior, using the theoretically most effective method.
+Our point is that at best, the effects that one can expect from threatening communications is inferior to the effects one can expect from health communications that are designed to target the most important determinants of behavior, using the theoretically most effective methods to target those determinants.
 
 ## Warning labels as a method to target other determinants
 
@@ -720,9 +736,9 @@ Accompanied by the following parameters for effectiveness:
 
 > Requires high self-efficacy expectations rather than high outcome expectations alone.
 
-The definition by Roberto, Mongeau and Liu includes 'fear alleviation' as a parameter for effectiveness, which at first glance appears broader than high self-efficacy (which, by enabling danger control, enables fear alleviation). Of the potential options, Roberto, Mongeau and Liu, 2018, rightly emphasize justified fear alleviation (i.e. adaptive behavior, which does alleviate the threat), and stress that a fear appeal should contain both threat and efficacy components.
+The definition by Roberto, Mongeau and Liu includes 'fear alleviation' as a parameter for effectiveness, which at first glance appears broader than high self-efficacy (which, by enabling danger control, enables fear alleviation). Of the potential options, Roberto, Mongeau and Liu, 2018, rightly emphasize justified fear alleviation (i.e. adaptive behavior, which does alleviate the threat), and stress that a fear appeal should contain both threat and efficacy components. However, regardless of these definitions, the term ‘fear appeals’ is mostly used for messages focusing on *threat* – such as graphic health warnings. One issue in this debate is therefore: do fear appeals also work when they only elevate fear, and are not accompanied by (potent) efficacy promoting messages? Or, more accurately: are fear appeals without a potent efficacy component ever the most effective intervention that can be realized in a given context (e.g. on tobacco packaging)?
 
-They process to discuss the literature from the perspective of this definition, and on the basis of this thorough and enlightening, albeit somewhat disheartening, discussion, they suggest that the present confused state of the literature is caused by the variation in how fear appeals are applied and studied. Specifically, studies and literature syntheses rarely respect the need for all four components to be present. We agree that this is likely one of the causes, perhaps the most important one; and we think that if this debate were to contribute to improving this situation, it will already have been worthwhile.
+They proceed to discuss the literature from the perspective of this definition, and on the basis of this thorough and enlightening, albeit somewhat disheartening, discussion, they suggest that the present confused state of the literature is caused by the variation in how fear appeals are applied and studied. Specifically, studies and literature syntheses rarely respect the need for all four components to be present. We agree that this is likely one of the causes, perhaps the most important one; and we think that if this debate were to contribute to improving this situation, it will already have been worthwhile.
 
 Roberto, Mongeau and Liu (2018) continue to question our claim that:
 
