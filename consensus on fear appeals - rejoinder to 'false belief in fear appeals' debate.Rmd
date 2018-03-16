@@ -44,6 +44,15 @@ figCountr <- function(nr = getOption("fearAppealFigureCounter", 1)) {
     return(paste("Figure", nr, ": "));
   };
 }
+
+if (knitr::opts_knit$get("rmarkdown.pandoc.to") == "html") {
+  fig1Link <- "https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png";
+  fig2Link <- "https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png";
+} else {
+  fig1Link <- "https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180316-initiationResults-light-1000px.png";
+  fig2Link <- "https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180316-cessationResults-light-1000px.png";
+}
+
 ```
 
 # Towards consensus on fear appeals: supplementary file
@@ -145,13 +154,13 @@ As we argued in the original paper, risk perception is a relatively unimportant 
 
 Although still very much a work in progress (see the [Open Science Framework repository](https://osf.io/vs39h/)), we have processed enough papers to give some initial impression of which determinants have been studied, and what the relative importance of these determinants is.
 
-So far, we extracted the most data for studies into smoking initiation. When meta-analyzing the associations of determinants to smoking initiation (for behavior outcomes only), the following picture emerges (literally):
+So far, we extracted the most data for studies into smoking initiation. When meta-analyzing the associations of determinants to smoking initiation (for behavior outcomes only), the picture in Figure 1 emerges (literally).
 
-![`r figCountr();`The association of various determinants to smoking initiation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-initiationResults-light-400px.png)
+![`r figCountr();`The association of various determinants to smoking initiation ](`r fig1Link`)
 
-Less studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. Here, the following picture emerges:
+Fewer studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. For smoking cessation, the picture in Figure 2 emerges.
 
-![`r figCountr();`The association of various determinants to smoking cessation ](https://github.com/academy-of-behavior-change/smoking-synthesis/raw/master/results-working-path/20180311-cessationResults-light-400px.png)
+![`r figCountr();`The association of various determinants to smoking cessation ](`r fig2Link`)
 
 Overall, the conclusion is that targeting risk perception does not seem an obvious choice. On the basis of these results, one would choose to target subjective and descriptive norms to prevent smoking initiation, and self-efficacy to promote successful cessation.
 
@@ -650,9 +659,25 @@ We do not mean to ignore this literature. This literature indicates that, for ex
 
 Our point is that at best, the effects that one can expect from threatening communications is inferior to the effects one can expect from health communications that are designed to target the most important determinants of behavior, using the theoretically most effective methods to target those determinants.
 
-## Warning labels as a method to target other determinants
+## Warning labels as a method to target disgust and sadness
 
 Niederdeppe and Kemp (2018) also make the point made by Brewer, Hall and Noar (2018) that perhaps, threatening communication targets other determinants than fear or threat. We therefore refer the reader back to sections [Mediators (determinants) targeted by warning labels] and [The importance of risk perception for behavior].
+
+However, Niederdeppe & Kemp (2018) also posit disgust and sadness as somehow special. They explicitly argue that
+
+> Kok and colleagues’ emphasis on the relationship between fear and efficacy is valid. However, existing theory and research has not implicated efficacy as a necessary condition for disgust and sadness to influence behavioral responses.
+
+Here, Niederdeppe & Kemp (2018) propose that when people are disgusted or sad, their efficacy is no longer important. In other words: if a person is sad, they will engage in behaviors that they are convinced will not decrease the fear (low response efficacy) and that they believe they cannot successfully perform (low self-efficacy). Similarly, they propose that if a person is disgusted, it no longer matters whether they believe a given behavior has anything to do with the disgust (i.e. low response efficacy), or they can feasibly perform the behavior (low self-efficacy): they will engage in the behavior regardless.
+
+This paints a picture where disgust and sadness rob a person of his or her faculties, thereby implying that these emotions do not trigger emotion regulation processes. To us, this seems an exceedingly unlikely model of human behavior. Instead, it is more likely that when disgusted or sad, people desire to alleviate that unpleasant state, and so engage in a process similar to the EPPM's coping appraisal, where they explore potential behaviors that might serve that goal. In that process, they will determine whether they have a behavioral response available that is effective (response efficacy) and that they can successfully perform (self-efficacy). If the outcome is that no such behavior is available, they will engage in maladaptive emotion regulation (e.g. substance use, such as smoking).
+
+Given the low 'face validity' of Niederdeppe & Kemp's (2018) claim, it is particularly unfortunate that they do not support it with a reference to theory or evidence. Furthermore, we know of no studies showing that either disgust or sadness are determinats of successful cessation (or successfully refraining from smoking initiation, or more accurately, trying out a cigarette).
+
+An additional complication is that disgust may contribute to stigma and prejudice (Tybur, Lieberman, Kurzban & DeScioli, 2013), rendering it an ethically circumspect determinant to target: if smokers become stigmatized, reaching them with health promotion interventions will become much harder. In addition, stigma is a problem in itself, and so deliberately creating it is ethically problematic. Similarly, the ethics of making people feel sad as a behavior in the hopes of changing their behavior, given that so many other determinants and behavior change mechanisms exist, is also debatable.
+
+Thus, while disgust and sadness may be determinants of successful smoking cessation or refraining from initiation (and we know of no evidence that suggests that they are), it is unlikely that they somehow manage to consistently influence behavior even when efficacy (i.e. response efficacy and self-efficacy) is low.
+
+Finally, if one crafts stimuli that have the optimal effect on disgust, the results will likely be very different from stimuli that have the optimal effect on fear; and if one crafts stimuli that have the optimal effect on sadness, different stimuli would be arrived at again. In other words: threatening communications are poor methods to target disgust and sadness. If it turns out that, for example, sadness is such a potent determinant of successful cessation (or refraining from initiation) that one can ethically justify targeting it using health communication on tobacco packaging, dedicated sadness-inducing stimuli would have to be developed. The likelihood that the saddest stimuli are also the most threatening is low. Threatening communication is tragic for very different reasons.
 
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
@@ -980,6 +1005,8 @@ Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Thre
 
 Peters, E. & Shoots-Reinhard, B. (2018) Don’t throw the baby out with the bath water: Commentary on Kok, Peters, Kessels, ten Hoor, and Ruiter (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445542](https://doi.org/10.1080/17437199.2018.1445542)
 
+Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: [10.1080/17437199.2011.606782](https://doi.org/10.1080/17437199.2011.606782)
+
 Roberto, A.J., Mongeau, P.A. & Liu, Y.(2018) A (re)defining moment for fear appeals: A comment on Kok et al. (2018). *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445546](https://doi.org/10.1080/17437199.2018.1445546)
 
 Rogers, R. W., & Mewborn, C. R. (1976). Fear appeals and attitude change: effects of a threat’s noxiousness, probability of occurrence, and the efficacy of coping responses. *Journal of Personality and Social Psychology, 34*, 54–61.
@@ -1004,7 +1031,7 @@ ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens
 
 Thrasher, J. F., Osman, A., Abad-Vivero, E. N., Hammond, D., Bansal-Travers, M., Michael Cummings, K., Hardin, James W. & Moodie, C. (2015). The use of cigarette package inserts to supplement pictorial health warnings: An evaluation of the canadian policy. *Nicotine and Tobacco Research, 17*, 870–875. doi: [10.1093/ntr/ntu246](http://doi.org/10.1093/ntr/ntu246)
 
-Riet, J. van ‘t, & Ruiter, R. A. C. (2013). Defensive reactions to health-promoting information: an overview and implications for future research. *Health Psychology Review, 7*, S104–S136. doi: [10.1080/17437199.2011.606782](https://doi.org/10.1080/17437199.2011.606782)
+Tybur, J. M., Lieberman, D., Kurzban, R., & DeScioli, P. (2013). Disgust: evolved function and structure. Psychological Review, 120(1), 65–84. doi: [10.1037/a0030778](https://doi.org/10.1037/a0030778)
 
 Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. *Psychological Bulletin, 132*, 249–268. doi: [10.1037/0033-2909.132.2.249](https://doi.org/10.1037/0033-2909.132.2.249)
 
