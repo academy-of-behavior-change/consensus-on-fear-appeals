@@ -2,7 +2,6 @@
 geometry: "left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"
 urlcolor: blue
 output:
-  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -10,6 +9,7 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: false
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -1031,7 +1031,7 @@ Rosenthal, J. A. (1996). Qualitative descriptors of strength of association and 
 
 Ruiter, R. A. C., Abraham, C., & Kok, G. (2001). Scary warnings and rational precautions: A review of the psychology of fear appeals. *Psychology & Health, 16*, 613–630. doi: [10.1080/08870440108405863](https://doi.org/10.1080/08870440108405863)
 
-Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*(9)*, 503–518. doi: [10.1111/spc3.12265](https://doi.org/10.1111/spc3.12265)
+Sheeran, P., & Webb, T. L. (2016). The Intention–Behavior Gap. *Social and Personality Psychology Compass, 10*, 503–518. doi: [10.1111/spc3.12265](https://doi.org/10.1111/spc3.12265)
 
 Shtulman, A., & Valcarcel, J. (2012). Scientific knowledge suppresses but does not supplant earlier intuitions. *Cognition, 124*, 209-215. https://dx.doi.org/10.1016/j.cognition.2012.04.005
 

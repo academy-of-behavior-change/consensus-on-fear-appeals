@@ -45,3 +45,7 @@ vignettes/*.pdf
 # Include knitted PDF
 !consensus_on_fear_appeals_-_rejoinder_to__false_belief_in_fear_appeals__debate.pdf
 
+# Proof corrections
+proof corrections.Md
+proof corrections.docx
+proof-correction-and-updated-supplemental-file.zip
