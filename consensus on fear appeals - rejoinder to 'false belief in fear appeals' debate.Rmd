@@ -2,6 +2,7 @@
 geometry: "left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"
 urlcolor: blue
 output:
+  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -9,7 +10,6 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: false
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -85,7 +85,7 @@ The part of this rejoinder printed in Health Psychology Review (HPR) is based on
 
 > "[...] we agree with Kok et al. that the warnings would likely work even better with a self-efficacy message, and that self-efficacy messages should accompany fear communications whenever possible."
 
-**Maloeff (2018):**
+**Malouff (2018):**
 
 > "[...] the higher the self-efficacy individuals have for changing a health-related behavior, the more likely they are to make the change."
 
@@ -141,6 +141,19 @@ We aimed to pre-emptively counter each of these arguments as follows:
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 
+# The Extended Parallel Process Model
+
+The Extended Parallel Process Model (EPPM; Witte, 1992) offers a useful representation of the common features shared in most models that deal with processing of threatening communication in the context of behavior change. Because of its central role in this debate, we include this visualisation here.
+
+![`r figCountr();`A visualisation of the Extended Parallel Process Model ](eppm.png)
+
+We recommend that readers unfamiliar with this model consult Witte (1992), but we offer a brief explanation of the model here. The EPPM holds that if a fear appeal is to be successful, it should target four psychological constructs: severity and susceptibility of a threat as well as response efficacy and self-efficacy of a behavior that can mitigate the threat. If an individual perceives information targeting susceptibility or severity of a threat, threat appraisal starts, and if the outcome is that the individual is indeed susceptible to a severe threat (i.e. high perceived threat), this increases fear and perceived danger, and triggers coping appraisal.
+
+If the outcome of the coping appraisal process is high perceived efficacy (i.e. a response is available that is likely to be effective to avert the danger, and that the individual is confident they can successfully perform), the individual engages in danger control, which results in the desired behavior change. However, is the outcome of the coping appraisal process is low perceived efficacy (no effective response is available, or an effective response is available, but the individual is not confident they can successfully perform that response), the individual engages in fear control, which results in defensive reactions to alleviate the fear.
+
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+
 # Two preliminary points and studies to resolve them
 
 Academic debates should ideally culminate in a set of studies that can then be preregistered and conducted and replicated to answer the questions that remain unanswered. After all, disagreement will often only exist in situations where no appropriate empirical evidence exists to determine which of the competing hypotheses is most plausible.
@@ -153,11 +166,11 @@ As we argued in the original paper, risk perception is a relatively unimportant 
 
 Although still very much a work in progress (see the [Open Science Framework repository](https://osf.io/vs39h/)), we have processed enough papers to give some initial impression of which determinants have been studied, and what the relative importance of these determinants is.
 
-So far, we extracted the most data for studies into smoking initiation. When meta-analyzing the associations of determinants to smoking initiation (for behavior outcomes only), the picture in Figure 1 emerges (literally).
+So far, we extracted the most data for studies into smoking initiation. When meta-analyzing the associations of determinants to smoking initiation (for behavior outcomes only), the picture in Figure 2 emerges (literally).
 
 ![`r figCountr();`The association of various determinants to smoking initiation ](`r fig1Link`)
 
-Fewer studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. For smoking cessation, the picture in Figure 2 emerges.
+Fewer studies investigated successful smoking cessation, and in fact, those studies only measured three determinants. For smoking cessation, the picture in Figure 3 emerges.
 
 ![`r figCountr();`The association of various determinants to smoking cessation ](`r fig2Link`)
 
@@ -1041,6 +1054,8 @@ Whittingham, J. R. D., Ruiter, R. A. C., Bolier, L., Lemmers, L., Hasselt, N. V.
 Wilson, T. D., & Bar-Anan, Y. (2008). Psychology: The unseen mind. *Science, 321*, 1046–1047. doi: [10.1126/science.1163029](https://doi.org/10.1126/science.1163029)
 
 Wilson, T. D., & Dunn, E. W. (2004). Self-Knowledge: Its Limits, Value, and Potential for Improvement. *Annual Review of Psychology, 55*, 493–518. doi: [10.1146/annurev.psych.55.090902.141954](https://doi.org/10.1146/annurev.psych.55.090902.141954)
+
+Witte, K. (1992). Putting the fear back into fear appeals: The extended parallel process model. *Communication Monographs, 59*, 329–349. doi: [10.1080/03637759209376276](http://doi.org/10.1080/03637759209376276)
 
 </div>
 
