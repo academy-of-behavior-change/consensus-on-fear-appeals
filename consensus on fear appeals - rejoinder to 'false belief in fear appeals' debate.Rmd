@@ -2,6 +2,7 @@
 geometry: "left=1.5cm,right=1.5cm,top=2cm,bottom=2cm"
 urlcolor: blue
 output:
+  pdf_document: default
   html_document:
     code_folding: show
     toc: true
@@ -9,7 +10,6 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: false
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -941,7 +941,7 @@ This reference list includes the sources cited in this supplementary file as wel
 
 <div style="margin-left: 2em; text-indent: -2em;">
 
-Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–87. doi: [10.1037/0278-6133.27.3.379](https://doi.org/10.1037/0278-6133.27.3.379)
+Abraham, C., & Michie, S. (2008). A taxonomy of behavior change techniques used in interventions. *Health Psychology, 27*, 379–387. doi: [10.1037/0278-6133.27.3.379](https://doi.org/10.1037/0278-6133.27.3.379)
 
 Ajzen, I. (2015). The theory of planned behaviour is alive and well, and not ready to retire: A commentary on Sniehotta, Presseau, and Araújo-Soares. *Health Psychology Review, 9*, 131-137. doi: [10.1080/17437199.2014.883474](https://doi.org/10.1080/17437199.2014.883474)
 
@@ -967,7 +967,7 @@ Conner, M., & Norman, P. (2015). *Predicting and changing health behaviour: Rese
 
 Crutzen, R., & Peters, G.-J. Y. (2018). Evolutionary learning processes as the foundation for behaviour change. *Health Psychology Review, 12*, 43-57. doi: [10.1080/17437199.2017.1362569](https://doi.org/10.1080/17437199.2017.1362569)
 
-Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*. doi: [10.3389/fpubh.2017.00165](https://doi.org/10.3389/fpubh.2017.00165)
+Crutzen, R., Peters, G-J. Y., & Noijen, J. (2017). Using confidence interval-based estimation of relevance to select social-cognitive determinants for behavior change interventions. *Frontiers in Public Health, 5*, 1807. doi: [10.3389/fpubh.2017.00165](https://doi.org/10.3389/fpubh.2017.00165)
 
 Gelman, A., & Loken, E. (2014). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. *Psychological Bulletin, 140*, 1272–1280. doi: [10.1037/a0037714](https://doi.org/dx.doi.org/10.1037/a0037714)
 
@@ -993,7 +993,7 @@ Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return 
 
 McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011). Prospective prediction of health-related behaviours with the Theory of Planned Behaviour: a meta-analysis. *Health Psychology Review, 5*, 97–144. doi: [10.1080/17437199.2010.521684](https://doi.org/10.1080/17437199.2010.521684)
 
-Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. *Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine.* doi: [10.1007/s12160-013-9486-6](https://doi.org/10.1007/s12160-013-9486-6)
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., … Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions. *Annals of Behavioral Medicine : A Publication of the Society of Behavioral Medicine, 46*, 81–95. doi: [10.1007/s12160-013-9486-6](https://doi.org/10.1007/s12160-013-9486-6)
 
 Niederdeppe, J. & Kemp, D. (2018) Ignoring theory and evidence: Commentary on Kok et al. (2018), *Health Psychology Review, 12*. doi: [10.1080/17437199.2018.1445543](https://doi.org/10.1080/17437199.2018.1445543)
 
@@ -1011,9 +1011,9 @@ Peters, G.-J. Y., de Bruin, M., & Crutzen, R. (2015). Everything should be as si
 
 Peters, G.-J. Y., & Crutzen, R. (2017). Pragmatic Nihilism: How a Theory of Nothing can help health psychology progress. *Health Psychology Review, 11*, 103–121. doi: [10.1080/17437199.2017.1284015](https://doi.org/10.1080/17437199.2017.1284015)
 
-Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*(3)*, 265–268. doi: [10.1080/17437199.2016.1190658](https://doi.org/10.1080/17437199.2016.1190658)
+Peters, G.-J. Y., & Kok, G. (2016). All models are wrong, but some are useful: A comment on Ogden (2016). *Health Psychology Review, 10*, 265–268. doi: [10.1080/17437199.2016.1190658](https://doi.org/10.1080/17437199.2016.1190658)
 
-Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49* (2)*, 71-79. doi: [10.1002/ijop.12000  ](https://doi.org/10.1002/ijop.12000)
+Peters, G-J.Y. Ruiter, R.A.C. & Kok G. (2014). Threatening communication: A qualitative study of fear appeal effectiveness beliefs among intervention developers, policy makers, politicians, scientists, and advertising professionals. *International Journal of Psychology, 49*, 71-79. doi: [10.1002/ijop.12000](https://doi.org/10.1002/ijop.12000)
 
 Peters, G.-J.Y., Ruiter, R. A. C., Verboon, P., & Kok, G. (2017, April 30). Threatening communication: Diffusing the scientific evidence on fear appeal effectiveness among intervention developers and other groups of key actors. *PsyArXiv*, retrieved from https://psyarxiv.com/vehtx
 
@@ -1041,7 +1041,7 @@ Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2012). A 21 Word Solution. *SSRN
 
 Spencer, S. J., Zanna, M. P., & Fong, G. T. (2005). Establishing a causal chain: Why experiments are often more effective than mediational analyses in examining psychological processes. *Journal of Personality and Social Psychology, 89*, 845–851. doi: [10.1037/0022-3514.89.6.845](https://doi.org/10.1037/0022-3514.89.6.845)
 
-ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*. doi: [10.1186/1471-2458-12-1011](https://doi.org/10.1186/1471-2458-12-1011)
+ten Hoor, G.A., Peters, G-J.Y., Kalagi, J. de Groot, L., Grootjans, K., Huschens, A., Kohninger, C., Kolgen, L., Pelssers, I., Schutt, T., Thomas, S., Ruiter R.A.C. & Kok, G., 2012. Reactions to threatening health messages. *BMC Public Health, 12*, 856. doi: [10.1186/1471-2458-12-1011](https://doi.org/10.1186/1471-2458-12-1011)
 
 Thrasher, J. F., Osman, A., Abad-Vivero, E. N., Hammond, D., Bansal-Travers, M., Michael Cummings, K., Hardin, James W. & Moodie, C. (2014). The use of cigarette package inserts to supplement pictorial health warnings: An evaluation of the canadian policy. *Nicotine and Tobacco Research, 17*, 870–875. doi: [10.1093/ntr/ntu246](http://doi.org/10.1093/ntr/ntu246)
 
